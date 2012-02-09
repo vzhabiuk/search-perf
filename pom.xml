@@ -40,7 +40,43 @@
 <email>john.wang@gmail.com</email>
 </developer>
   </developers>
+	<repositories>
+	    <repository>
+	      <id>repository.jboss.org</id>
+	      <url>http://repository.jboss.org/nexus/content/groups/public/</url>
+		  <snapshots>
+	        <enabled>false</enabled>
+	       </snapshots>
+	    </repository>
+	    <repository>
+	      <id>Scala Tools Repository</id>
+	      <url>http://nexus.scala-tools.org/content/repositories/snapshots/</url>
+	    </repository>
+      <repository>
+        <id>labs-consol-release</id>
+        <name>ConSol* Labs Repository (Releases)</name>
+        <url>http://labs.consol.de/maven/repository</url>
+      </repository>
+      <repository>
+        <id>releases</id>
+        <name>Releases</name>
+        <url>https://oss.sonatype.org/content/repositories/releases</url>
+      </repository>
 
+	  </repositories>
+
+	<distributionManagement>
+		<repository>
+		  <id>sonatype-nexus-staging</id>
+		  <name>sonatype nexus staging repository</name>
+		  <url>http://oss.sonatype.org/service/local/staging/deploy/maven2</url>
+		</repository>
+		<snapshotRepository>
+		  <id>sonatype-nexus-snapshots</id>
+		  <name>sonatype nexus snapshots repository</name>
+		  <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
+		</snapshotRepository>
+	</distributionManagement>
   <!-- Set the compiler to java6 -->
   <build>
     <plugins>
@@ -174,16 +210,5 @@
   </dependencies>
 
 
-<distributionManagement>
-   	<repository>
-	  <id>sonatype-nexus-staging</id>
-	  <name>sonatype nexus staging repository</name>
-	   <url>http://oss.sonatype.org/service/local/staging/deploy/maven2</url>
-	</repository>
-	<snapshotRepository>
-	  <id>sonatype-nexus-snapshots</id>
-	  <name>sonatype nexus snapshots repository</name>
-	  <url>https://oss.sonatype.org/content/repositories/snapshots/</url>
-	</snapshotRepository>
- </distributionManagement>
+
 </project>
