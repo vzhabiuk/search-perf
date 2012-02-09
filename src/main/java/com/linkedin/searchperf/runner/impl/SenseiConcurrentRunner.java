@@ -43,7 +43,7 @@ public class SenseiConcurrentRunner extends AbstractConcurrentRunner<String> {
     SenseiClientRequest query = queryProducer.createQuery(includeFacets, simpleSelections, rangeSelections, pathSelections);
     
    
-    query.setFilter(Filters.or(query.getSelections().toArray(new Filter[query.getSelections().size()])));
+    query.setFilter(Filters.and(query.getSelections().toArray(new Filter[query.getSelections().size()])));
     query.setSelections(new ArrayList<Selection>());
     
     return JsonSerializer.serialize(

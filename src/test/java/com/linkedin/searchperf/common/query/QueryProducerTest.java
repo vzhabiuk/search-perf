@@ -11,8 +11,8 @@ import org.junit.Test;
 
 import com.linkedin.searchperf.query.sensei.SenseiQueryProducer;
 import com.senseidb.search.client.json.JsonSerializer;
+import com.senseidb.search.client.json.req.Path;
 import com.senseidb.search.client.json.req.Range;
-import com.senseidb.search.client.json.req.Selection.Path;
 import com.senseidb.search.client.json.req.SenseiClientRequest;
 import com.senseidb.search.client.json.req.Terms;
 
@@ -61,6 +61,6 @@ public class QueryProducerTest extends Assert {
   @Test
   public void test3QueryGenerationFacets() throws Exception {
       SenseiClientRequest query = queryProducer.createQuery(true, 3, 1, 1);
-      assertEquals(5, query.getFacets().size());
+      assertEquals(3, query.getFacets().size());
   }
 }

@@ -26,11 +26,12 @@ public class SelectionGenerator {
       if (fieldValues.size() < 4) {
         return Filters.term(fieldName, getIterator(fieldName).next().toString());
       }
-      if (fieldValues.size() < 15) {
+      return Filters.terms(fieldName, getSampleValues(fieldName, 3), Collections.EMPTY_LIST, Operator.or);
+      /*if (fieldValues.size() < 15) {
         int sampleNumber = (fieldValues.size() / 2);
         return Filters.terms(fieldName, getSampleValues(fieldName, sampleNumber - 1), getSampleValues(fieldName, (fieldValues.size() - sampleNumber) / 2), Operator.or);
       }
-      return Filters.terms(fieldName, Collections.EMPTY_LIST, getSampleValues(fieldName, 5), null);
+      return Filters.terms(fieldName, Collections.EMPTY_LIST, getSampleValues(fieldName, 5), null);*/
   }
 
   public Selection createPathSelection(String fieldName) {

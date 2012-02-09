@@ -4,9 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.linkedin.searchperf.query.sensei.SenseiQueryProducer;
+import com.senseidb.search.client.json.req.Path;
 import com.senseidb.search.client.json.req.Range;
 import com.senseidb.search.client.json.req.Selection;
-import com.senseidb.search.client.json.req.Selection.Path;
 import com.senseidb.search.client.json.req.SenseiClientRequest;
 import com.senseidb.search.client.json.req.Terms;
 

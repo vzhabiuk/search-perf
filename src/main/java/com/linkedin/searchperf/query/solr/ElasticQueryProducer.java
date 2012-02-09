@@ -9,9 +9,9 @@ import org.json.JSONObject;
 import com.linkedin.searchperf.query.sensei.SenseiQueryProducer;
 import com.linkedin.searchperf.runner.impl.MockClient;
 import com.senseidb.search.client.json.req.Operator;
+import com.senseidb.search.client.json.req.Path;
 import com.senseidb.search.client.json.req.Range;
 import com.senseidb.search.client.json.req.Selection;
-import com.senseidb.search.client.json.req.Selection.Path;
 import com.senseidb.search.client.json.req.SenseiClientRequest;
 import com.senseidb.search.client.json.req.Terms;
 
