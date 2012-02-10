@@ -5,18 +5,26 @@
   <table uid="id" >
 	<column name="title" type="string" multi="true" delimiter=","/>
 	<column name="age" type="string" multi="true" delimiter=","/>
-	<column name="reg" type="string" multi="true" delimiter=","/>
+	<column name="reg" type="string"  multi="true" delimiter=","/>
 	<column name="csize" type="string" multi="true" delimiter=","/>
 	<column name="func" type="string" multi="true" delimiter=","/>
 	<column name="ind" type="string" multi="true" delimiter=","/>
+	<column name="gdr" type="string" multi="true" delimiter=","/>
+	<column name="gid" type="string" multi="true" delimiter=","/>
+	<column name="sjt" type="string" multi="true" delimiter=","/>
+	<column name="cid" type="string" multi="true" delimiter=","/>
   </table>
   
    <facets>	 
 	 <facet name="title" type="multi" />
 	 <facet name="age" type="multi" />
-	 <facet name="reg" type="multi" />
+	 <facet name="reg" type="multi-range"/>	
 	 <facet name="csize" type="multi" />
 	 <facet name="func" type="multi" />
 	 <facet name="ind" type="multi" />	 
+	 <facet name="gdr" type="multi" />
+	 <facet name="gid" type="multi" />	 
+	 <facet name="sjt" type="multi" />	 
+	 <facet name="cid" type="multi" />	 
    </facets>
 </schema>

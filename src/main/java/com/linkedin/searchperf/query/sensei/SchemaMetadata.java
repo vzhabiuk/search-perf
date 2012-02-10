@@ -11,6 +11,9 @@ public class SchemaMetadata {
   private Map<String, List<String>> rangeFacetsWithRanges = new LinkedHashMap<String, List<String>>();
 
   public void put(String facetName, String facetTypeStr) {
+    if (facetName.equals("reg")) {
+      return;
+    }
     FacetType facetType = FacetType.valueOf(facetTypeStr);
     if (facetType == null)
       throw new IllegalStateException();

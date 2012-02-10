@@ -150,7 +150,7 @@ public class SenseiQueryProducer {
     return ret;
   }
   public static SenseiQueryProducer build(PerfRunnerConfig perfRunnerConfig) {
-    SenseiQueryProducer queryProducer = new SenseiQueryProducer();
+    SenseiQueryProducer queryProducer = new CampaignQueryProducer();
     queryProducer.init(PerfRunnerConfig.getResource(perfRunnerConfig.getSchemaPath()),
         PerfRunnerConfig.getResource(perfRunnerConfig.getDataFilePath()));
     return queryProducer;

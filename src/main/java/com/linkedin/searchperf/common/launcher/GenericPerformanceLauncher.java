@@ -30,6 +30,7 @@ public class GenericPerformanceLauncher {
     PerfRunnerConfig perfRunnerConfig = PerfRunnerConfig.build(config);    
     List<PerformanceResult> ret = new ArrayList<PerformanceResult>();
     FileUtils.deleteQuietly(new File(RESULT_FILE));
+    FileUtils.deleteQuietly(new File("report.log"));
     File resultFile = new File(RESULT_FILE);
     FileWriter fileWriter = new FileWriter(resultFile, true);
     fileWriter.append(PerformanceResult.getMetadata() + "\n");

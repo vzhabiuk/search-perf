@@ -24,7 +24,7 @@ public class SenseiPerformanceLauncher {
     PropertiesConfiguration config = GenericPerformanceLauncher.extractPropertyConfig(args);
     List<Integer> threads = GenericPerformanceLauncher.extractNumberOfThreads(config);
     PerfRunnerConfig senseiRunnerConfig = PerfRunnerConfig.build(config);
-    SenseiQueryProducer queryProducer = new SenseiQueryProducer();
+    SenseiQueryProducer queryProducer =  SenseiQueryProducer.build(senseiRunnerConfig);
     queryProducer.init(PerfRunnerConfig.getResource(senseiRunnerConfig.getSchemaPath()),
         PerfRunnerConfig.getResource(senseiRunnerConfig.getDataFilePath()));
     SenseiServiceProxy senseiServiceProxy = new SenseiServiceProxy(senseiRunnerConfig.getUrl());
