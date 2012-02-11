@@ -38,7 +38,7 @@ public class HttpIndexLoaderTest {
   public void testLoadData() throws Exception {
     try {
     httpIndexLoader.loadData(new SolrIndexLoader(IOUtils.lineIterator(getClass().getClassLoader().getResourceAsStream("cars.json"), "UTF-8"),"anyUrl", mockHttpClient), 5);
-    assertEquals(150, mockHttpClient.postedData.size());} catch (Exception ex) {ex.printStackTrace();}
+    assertEquals(15, mockHttpClient.postedData.size());} catch (Exception ex) {ex.printStackTrace();}
   }
 
 }
