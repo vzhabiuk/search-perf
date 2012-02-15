@@ -18,7 +18,7 @@
    <facets>	 
 	 <facet name="title" type="multi" />
 	 <facet name="age" type="multi" />
-	 <facet name="reg" type="multi-range"/>	
+	 <facet name="reg" type="multi"/>	
 	 <facet name="csize" type="multi" />
 	 <facet name="func" type="multi" />
 	 <facet name="ind" type="multi" />	 

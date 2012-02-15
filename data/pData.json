@@ -1,0 +1,906 @@
+{"age": "c", "gdr": "m", "ind": "6", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c", "cid": "445667,55862,1361728", "func": "ent,finc", "gdr": "m", "ind": "106,6,96", "title": "9348,1967,35,916,8", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "b", "cid": "1741416", "func": "ent", "gdr": "m", "ind": "106", "title": "18,103", "reg": "na.us.7"}
+{"age": "c", "csize": "g,e,c", "cid": "266361,13948,1337,167907,18077", "func": "ent,edu", "gdr": "m", "ind": "106,68,109,6,100,4", "title": "5446,3458,121,4717,3419,18,103,1265", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "1337", "func": "prod", "gdr": "m", "ind": "6", "title": "2005", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent", "gdr": "f", "ind": "4", "title": "1", "reg": "na.us.ca.84"}
+{"age": "c", "func": "supp,it", "gdr": "m", "ind": "6", "title": "436,12723,4530", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "a", "func": "cre", "gdr": "m", "ind": "6", "title": "3189,24", "reg": "na.us.ca.84"}
+{"age": "c", "func": "cnsl", "gdr": "m", "ind": "96", "title": "3", "reg": "na.us.ca.84"}
+{"csize": "g", "cid": "1337", "func": "ent,it", "gdr": "m", "ind": "6", "title": "490,14863,3078", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "1337", "func": "it", "gdr": "u", "ind": "6", "title": "13951", "reg": "na.us.ca.84"}
+{"age": "c", "func": "cre", "gdr": "f", "ind": "6", "title": "25", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6", "title": "9", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g,i", "cid": "2843,2841", "func": "edu", "gdr": "m", "ind": "68", "title": "540,2824,4717", "reg": "na.us.ca.84"}
+{"gdr": "u", "ind": "106", "title": "16", "reg": "as.cn"}
+{"age": "c", "csize": "g,h,d", "cid": "22454,732396,1792,1337", "func": "edu", "gdr": "m", "ind": "6,68,4", "title": "133,1967,593,1265", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "226748", "func": "bd", "gdr": "f", "ind": "10", "title": "2304", "reg": "na.us"}
+{"age": "c", "csize": "c", "cid": "846488", "func": "it,eng,cnsl", "gdr": "m", "ind": "6,80", "title": "929,153", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "70", "reg": "na.us.ca.84"}
+{"csize": "b,c,a", "cid": "167594", "func": "supp,ent", "gdr": "m", "ind": "6,119", "title": "1157,35", "reg": "na.us.ca.84"}
+{"age": "c", "func": "cnsl", "gdr": "m", "ind": "6", "title": "328", "reg": "na.us.ca.84"}
+{"func": "cre,pr", "gdr": "f", "ind": "28", "title": "1934,101", "reg": "na.us.ca.49"}
+{"age": "b", "func": "ppm", "gdr": "m", "ind": "43,99", "title": "1352,5", "reg": "na.us.ct.327"}
+{"age": "c", "csize": "f,h", "cid": "19572,1792", "func": "finc,edu", "gdr": "m", "ind": "106,68", "title": "4185,56", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "c,d", "cid": "157254", "func": "ent,it,eng", "gdr": "m", "ind": "6", "title": "153,35", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h", "cid": "4328", "gdr": "m", "ind": "24", "title": "168", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g,d", "cid": "167907", "func": "ent", "gdr": "m", "ind": "109", "title": "35,8", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,i", "cid": "1443207,2615", "func": "edu,cnsl", "gdr": "m", "ind": "106,42,6", "title": "47,82,692,593", "reg": "na.us.ca.84"}
+{"csize": "g", "cid": "1337", "gdr": "m", "ind": "6", "title": "7,16", "reg": "as.sg"}
+{"age": "d", "func": "ent", "gdr": "m", "ind": "6", "title": "35", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "206866", "gdr": "m", "ind": "96", "title": "154", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "83909", "func": "ent", "gdr": "m", "ind": "9", "title": "35,154", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c,g,d", "cid": "14467,19465,10667", "func": "cnsl", "gdr": "m", "ind": "39,106,6", "title": "4173,776,2637", "reg": "na.us.ca.84"}
+{"csize": "b,c", "cid": "288351,817644,1140919,1288575,166025,1023011", "func": "ent,bd,cnsl", "gdr": "m", "ind": "80,6,4", "title": "261,16593,6943,82,6614,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "2321632", "func": "eng", "gdr": "m", "ind": "6,4", "title": "2420", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e,c,h,i", "cid": "1792,13948,18077", "func": "admn,cnsl,edu", "gdr": "m", "ind": "106,68,4", "title": "124,18,10430,1265,13761", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "88", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "898937", "func": "bd", "gdr": "f", "ind": "6,142", "title": "98,261", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c,d", "cid": "48132,28395,80451", "func": "ent,cnsl", "gdr": "m", "ind": "6,4", "title": "35,82", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "6", "title": "1238,35,18", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1481,1482", "func": "lgl", "gdr": "m", "ind": "6", "title": "386,4436", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c", "cid": "28395,1134933", "func": "ent,cnsl", "gdr": "m", "ind": "6,100", "title": "5446,82,35", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "func": "ent", "gdr": "m", "ind": "4", "title": "35", "reg": "na.us.ca.746"}
+{"age": "c", "csize": "i,a", "cid": "2517", "func": "acad,ent,bd", "gdr": "m", "ind": "100,68,4", "title": "1,316,3683,1265,10906", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "1223795", "func": "ent", "gdr": "m", "ind": "134", "title": "35", "reg": "eu.de.4953"}
+{"age": "c", "csize": "i", "cid": "1371", "gdr": "m", "ind": "11", "title": "189", "reg": "na.us.ny.70"}
+{"age": "c", "gdr": "m", "ind": "4", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "d", "cid": "157254", "func": "ent,cnsl", "gdr": "m", "ind": "6", "title": "35,82,8", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "f", "ind": "6", "title": "47", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h,i", "cid": "1288", "func": "prod", "gdr": "m", "ind": "6", "title": "270", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "i", "cid": "3100", "gdr": "m", "ind": "74", "title": "11540", "reg": "as.th"}
+{"age": "c", "csize": "d,a,i", "cid": "1295,29701", "func": "eng,it,ent,cnsl", "gdr": "m", "ind": "90,7,109,28", "title": "3,153,6,35,1380", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "c", "cid": "1292835,157250", "func": "ent", "gdr": "m", "ind": "144,12", "title": "35,8", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "g,d,e", "cid": "167251,10667,551073", "func": "finc,cnsl", "gdr": "m", "ind": "6,4", "title": "82,916", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "d", "cid": "675562", "func": "ops", "gdr": "m", "ind": "43", "title": "145", "reg": "na.us.ca.84"}
+{"csize": "b", "cid": "856079", "gdr": "m", "ind": "28,4", "title": "47,8", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "b", "cid": "157248", "func": "ent", "gdr": "f", "ind": "60", "title": "6,35", "reg": "na.us.sc.144"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "4", "title": "1", "reg": "eu.be.4925"}
+{"age": "c", "csize": "d", "cid": "57783", "func": "ops", "gdr": "f", "ind": "12", "title": "145", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "1149030", "func": "ent", "gdr": "m", "ind": "80", "title": "35,8", "reg": "na.us.tx.64"}
+{"age": "c", "func": "cre,pr", "gdr": "f", "ind": "120", "title": "12458,101", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "76", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent", "gdr": "f", "ind": "113", "title": "35,8", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1284", "gdr": "f", "ind": "41", "title": "5", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "it,bd,ops,cnsl,finc", "gdr": "m", "ind": "6", "title": "6557,82,916,1931,119", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g,d,e,b", "cid": "25582,1337,859281,122375,1540894", "func": "ent,finc", "gdr": "m", "ind": "106,144,6,92,4,12", "title": "5446,13758,1405,35,916", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "21507", "func": "bd,sale,ops", "gdr": "m", "ind": "4", "title": "10484,2884,9844,14416,3236,21094,2786", "reg": "na.us.ca.84"}
+{"func": "admn", "gdr": "f", "ind": "84", "title": "34", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "mktg,sale", "gdr": "m", "ind": "6", "title": "4098,5438", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f", "cid": "13156", "func": "eng", "gdr": "m", "ind": "4", "title": "39", "reg": "na.us.ca.84"}
+{"gdr": "f", "ind": "46", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "167063", "func": "mktg,sale", "gdr": "m", "ind": "80", "title": "3966,2236,3603", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "b", "cid": "477184", "func": "ent", "gdr": "f", "ind": "6", "title": "1,19923", "reg": "na.us.ca.84"}
+{"age": "c", "cid": "2025991", "gdr": "m", "ind": "44", "title": "8", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "i", "cid": "1482", "func": "prod", "gdr": "f", "ind": "6", "title": "1031", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "1103749", "func": "mktg,ent,bd", "gdr": "m", "ind": "6,34", "title": "13702,8,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "30013", "gdr": "f", "ind": "39,131", "title": "1069,1380", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "g", "cid": "8221", "func": "sale", "gdr": "m", "ind": "6", "title": "175", "reg": "na.us.ca.84"}
+{"func": "ent", "gdr": "m", "ind": "9", "title": "1", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "1045249", "gdr": "f", "ind": "103", "title": "47", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "101637", "func": "finc", "gdr": "m", "ind": "43", "title": "68", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "6", "title": "35", "reg": "na.us.ca.84"}
+{"csize": "b,a", "func": "ent,cre,it", "gdr": "f", "ind": "109", "title": "1,241,583", "reg": "na.us.ca.84"}
+{"csize": "d,e", "cid": "31070", "func": "qa", "gdr": "m", "ind": "12", "title": "1653", "reg": "na.us.ma.7"}
+{"cid": "1718168", "func": "ent", "gdr": "f", "ind": "96", "title": "103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,e", "cid": "320128,2205240", "func": "cre,acad,ent,cnsl", "gdr": "m", "ind": "96,6,37,4", "title": "3,1281,6,35,3079,103,8,1265", "reg": "na.us.ca.84"}
+{"age": "c", "func": "lgl", "gdr": "m", "ind": "43", "title": "52,1015", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "d", "cid": "23730", "func": "acad,edu", "gdr": "f", "ind": "68", "title": "540,363,16757", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f", "cid": "31517", "gdr": "m", "ind": "6", "title": "8", "reg": "na.us.ca.84"}
+{"func": "cre", "gdr": "m", "ind": "140", "title": "907", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "b", "gdr": "m", "ind": "50", "title": "18", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "157341", "func": "edu", "gdr": "m", "ind": "68", "title": "124", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "i", "cid": "1235", "func": "edu,cnsl", "gdr": "m", "ind": "43,41", "title": "22,322", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "f", "ind": "6", "title": "8", "reg": "na.us.wa.784"}
+{"func": "ent", "gdr": "m", "ind": "6", "title": "1", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "d,a", "cid": "824768,13308,167280", "func": "ent", "gdr": "m", "ind": "43,6,118", "title": "35,8,460,1265", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "c", "cid": "45900", "func": "ent", "gdr": "m", "ind": "132,4", "title": "162,35,8", "reg": "na.us.oh.28"}
+{"age": "c", "csize": "a", "cid": "735130", "gdr": "m", "ind": "106", "title": "18", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c", "cid": "1717679", "func": "ent", "gdr": "m", "ind": "96,142", "title": "195,103,154", "reg": "na.us.ca.84"}
+{"age": "c", "func": "bd,cnsl,finc", "gdr": "m", "ind": "6,106", "title": "16114,98,802,82,8", "reg": "na.us.ca.84"}
+{"age": "c", "cid": "1431442,2159002", "func": "pr,cnsl", "gdr": "m", "ind": "102,46", "title": "82,73", "reg": "na.us.co.34"}
+{"age": "b", "csize": "i", "cid": "1586", "gdr": "f", "ind": "6", "title": "5", "reg": "as.cn"}
+{"age": "b", "csize": "f", "cid": "31517", "func": "eng", "gdr": "m", "ind": "6", "title": "520,9,326", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6", "title": "520", "reg": "na.us.ca.84"}
+{"csize": "g", "cid": "19190", "func": "sale", "gdr": "m", "ind": "3", "title": "11", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "78009", "func": "ent,it,eng", "gdr": "m", "ind": "43,41,4", "title": "595,153,35,72,191", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "g,e", "cid": "13948,15802", "func": "ppm,bd,edu", "gdr": "f", "ind": "124,4", "title": "899,5970,33", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,e", "cid": "277096,2215938,11681", "func": "ent,bd", "gdr": "m", "ind": "6,96,4", "title": "2711,19923,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c,d", "cid": "1443207,266361,222172,400528", "func": "cre,ent,css,cnsl,finc", "gdr": "m", "ind": "79,6,108,100", "title": "969,133,1405,82,35,916,1364,103", "reg": "na.us.ca.84"}
+{"csize": "d", "cid": "8772", "func": "ent", "gdr": "u", "ind": "6", "title": "6,35", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e", "cid": "1249301", "func": "eng,it", "gdr": "m", "ind": "80", "title": "153", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h", "cid": "1449", "gdr": "f", "ind": "109", "title": "202", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "22806", "func": "ops", "gdr": "m", "ind": "106", "title": "6891", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "6", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "45201", "func": "ent,cre,cnsl", "gdr": "m", "ind": "6,4", "title": "182,35,1364,103,1787", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "30", "reg": "na.us.ca.732"}
+{"csize": "b,c", "cid": "1149223,2115476,2048383", "func": "edu,cnsl", "gdr": "m", "ind": "17,106,24,6,124", "title": "133,82,16,593", "reg": "na.us.ny.70"}
+{"csize": "d", "cid": "118688", "func": "ops,it", "gdr": "m", "ind": "4", "title": "9525", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c", "cid": "86359", "func": "ent,cnsl", "gdr": "m", "ind": "27,6,4", "title": "195,82,35", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "16349", "gdr": "m", "ind": "9", "title": "18", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f", "cid": "243936", "func": "prod", "gdr": "m", "ind": "6", "title": "1838,60", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "e", "cid": "27915", "func": "finc", "gdr": "m", "ind": "46", "title": "57,8844", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "c,d", "cid": "275405,1373625,356342,167141", "func": "ent,finc", "gdr": "u", "ind": "106,6,80", "title": "9348,133,916,103,8,167", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1028", "func": "prod", "gdr": "u", "ind": "96", "title": "1207", "reg": "na.us.wa.91"}
+{"age": "b", "csize": "c", "cid": "70618", "func": "prod", "gdr": "m", "ind": "6", "title": "1031", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "f", "cid": "6288", "func": "bd", "gdr": "m", "ind": "6", "title": "1866", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "6", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "6", "reg": "na.us.md.97"}
+{"csize": "i", "cid": "1009", "func": "eng", "gdr": "m", "ind": "96", "title": "9", "reg": "na.us.az.852"}
+{"age": "c", "csize": "b", "cid": "1073626", "func": "it", "gdr": "m", "ind": "4", "title": "21", "reg": "na.us.ca.746"}
+{"age": "d", "csize": "a", "cid": "4429", "func": "edu", "gdr": "f", "ind": "11,68", "title": "2925,8,322", "reg": "na.us.ks.376"}
+{"age": "c", "gdr": "m", "ind": "106", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "260901", "func": "finc", "gdr": "m", "ind": "4", "title": "333", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "6", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e", "cid": "551073", "gdr": "m", "ind": "4", "title": "8", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "g", "cid": "10667", "func": "eng", "gdr": "m", "ind": "6", "title": "9", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f", "cid": "96622", "func": "eng", "gdr": "m", "ind": "6", "title": "17413", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f,c", "cid": "165683,626240", "func": "bd,finc,prod,ops", "gdr": "m", "ind": "6,80", "title": "133,1031,5682,916,8,1128", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h", "cid": "3595", "func": "sale", "gdr": "m", "ind": "36", "title": "57,17,2851", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "37260", "gdr": "m", "ind": "44", "title": "2,7,5", "reg": "na.us.ma.7"}
+{"age": "c", "gdr": "f", "ind": "6", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "9", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6", "title": "39", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "i,e", "cid": "2519,3028", "gdr": "f", "ind": "70,68", "title": "1967,121,18350", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1035", "func": "eng", "gdr": "f", "ind": "4", "title": "174", "reg": "na.us.ca.84"}
+{"csize": "h", "cid": "6147", "func": "med", "gdr": "f", "ind": "14", "title": "7002", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f,g,d,e,b,c,a,i", "cid": "96622,20253,44543,27033,131640,1483858,13948,233602,664595,166530,165383,1499,635565,167331,20039,31292,35261,1646,1034475,3666", "func": "hr,acad,mktg,edu,ent,pr,ops,cnsl,finc", "gdr": "u", "ind": "79,69,132,96,68,91,33,13,28,12,109,6,4,106,70,80,131", "title": "133,1967,35,341,2637,916,3626,1380,162,4252,1840,5,82,120,8,6778,604,87,75,999", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "g", "cid": "3643", "func": "lgl", "gdr": "m", "ind": "4", "title": "1007", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "b", "cid": "1726675", "func": "ent", "gdr": "m", "ind": "48", "title": "1,5840", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6", "title": "520", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f,b", "cid": "5290", "func": "ent,edu", "gdr": "m", "ind": "6,68", "title": "35,178", "reg": "na.us.pa.77"}
+{"age": "d", "csize": "b", "cid": "1140919", "func": "ent,it,eng", "gdr": "m", "ind": "6", "title": "153,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "33722", "func": "cnsl", "gdr": "m", "ind": "11", "title": "697", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c", "cid": "457084,18902,959694,237623", "func": "ent,cnsl", "gdr": "m", "ind": "30,6,4", "title": "1079,82,35,8", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "28", "reg": "na.us.ca.51"}
+{"func": "it", "gdr": "m", "ind": "4", "title": "940", "reg": "na.us.ca.84"}
+{"func": "pr", "gdr": "m", "ind": "98", "title": "238,348", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1235", "gdr": "f", "ind": "43", "title": "7", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h", "cid": "1792", "func": "cre,it", "gdr": "f", "ind": "68", "title": "2006", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f", "cid": "31517", "func": "pr", "gdr": "m", "ind": "6", "title": "5432", "reg": "na.us.ca.84"}
+{"csize": "h", "cid": "1480", "func": "cre,prod", "gdr": "f", "ind": "4", "title": "627,3313,270", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "c", "cid": "34516", "gdr": "m", "ind": "106", "title": "2637", "reg": "na.us.va.97"}
+{"csize": "g", "cid": "9561", "gdr": "m", "ind": "17", "title": "24", "reg": "na.us.ca.84"}
+{"csize": "d", "cid": "42659", "func": "lgl", "gdr": "m", "ind": "9", "title": "10291,8128", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "15640", "func": "css", "gdr": "m", "ind": "6", "title": "4812", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "b,c", "cid": "489967,4401", "func": "ent,bd", "gdr": "m", "ind": "27,6,96", "title": "47,35,1085", "reg": "eu.gb.4573"}
+{"csize": "c", "cid": "489967", "func": "ent", "gdr": "m", "ind": "6", "title": "1,103", "reg": "eu.it.5651"}
+{"csize": "h,a", "cid": "1480", "func": "ent,eng", "gdr": "m", "ind": "6,4", "title": "1,39", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "i", "cid": "1035", "func": "supp,ppm,it", "gdr": "m", "ind": "6,4", "title": "1675,4033,6,7459,6360", "reg": "na.us.wa.91"}
+{"age": "d", "csize": "f,b,c,i", "cid": "1330092,291029,20513,1612050,163066", "func": "ent,it,cnsl", "gdr": "m", "ind": "132,8,6,113,37,75", "title": "3,1,163,727,7217,35,1154,9245,84", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,i", "cid": "1063,901738", "func": "supp,ent,css", "gdr": "m", "ind": "90,5,4", "title": "969,199,35,99", "reg": "na.us.mi.35"}
+{"age": "c", "csize": "c,h", "cid": "4328", "gdr": "m", "ind": "24", "title": "7,17", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "h", "cid": "36045", "func": "ops", "gdr": "m", "ind": "44", "title": "3740,775", "reg": "na.us.ca.51"}
+{"csize": "e", "cid": "7912", "func": "it", "gdr": "m", "ind": "113,84", "title": "5483,17,7687", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "1140919", "func": "ent,pr", "gdr": "m", "ind": "6,100,12", "title": "390,35,8,60", "reg": "na.us.ca.84"}
+{"csize": "d", "cid": "29523", "func": "mktg,cnsl", "gdr": "f", "ind": "124", "title": "279", "reg": "na.us.me.640"}
+{"csize": "i", "cid": "1903", "func": "eng", "gdr": "m", "ind": "14", "title": "4727,4382", "reg": "na.us.ct.70"}
+{"gdr": "m", "ind": "106", "title": "16", "reg": "na.us.ga.52"}
+{"age": "c", "csize": "i", "cid": "1497", "func": "acad,eng", "gdr": "m", "ind": "7", "title": "122,331", "reg": "na.us.tx.64"}
+{"func": "ent", "gdr": "m", "ind": "82", "title": "1", "reg": "na.us.ca.84"}
+{"csize": "a", "func": "ent", "gdr": "m", "ind": "4", "title": "1", "reg": "na.us.ca.84"}
+{"age": "c", "func": "cre,ent", "gdr": "m", "ind": "4", "title": "117,1", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "3780", "func": "bd,sale", "gdr": "m", "ind": "96", "title": "3974,918", "reg": "na.us.ma.7"}
+{"csize": "c", "gdr": "m", "ind": "44", "title": "23", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "h,i", "cid": "162479", "func": "cre", "gdr": "m", "ind": "3", "title": "461", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "6", "title": "900", "reg": "na.us.nc.152"}
+{"csize": "c", "cid": "32140", "func": "bd", "gdr": "m", "ind": "46", "title": "2749", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "d", "cid": "157253", "func": "eng", "gdr": "m", "ind": "6", "title": "9", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "func": "cre", "gdr": "u", "ind": "25", "title": "170,112", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "b", "cid": "246214", "func": "ent", "gdr": "m", "ind": "43", "title": "35", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "b", "cid": "62478,229878", "func": "ent,pr", "gdr": "m", "ind": "6,80", "title": "49,35,18", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "b", "cid": "1488649,1841028", "func": "ent,finc", "gdr": "f", "ind": "96,112,6,84,4", "title": "162,5,916,8,103", "reg": "na.us.ca.49"}
+{"age": "c", "func": "cre,ent", "gdr": "m", "ind": "115,4", "title": "170,103", "reg": "eu.gb"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6", "title": "326", "reg": "na.us.ga.52"}
+{"age": "b", "csize": "c", "cid": "483990,1499910", "gdr": "m", "ind": "86,101", "title": "133,5", "reg": "na.us.ca.746"}
+{"csize": "g,d", "gdr": "f", "ind": "38", "title": "8", "reg": "eu.ch.4938"}
+{"csize": "d", "cid": "61330", "func": "eng,it", "gdr": "m", "ind": "4", "title": "153", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,h,i", "cid": "2517,375247", "func": "edu", "gdr": "m", "ind": "11,68", "title": "16,322", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c,d", "cid": "22353,51747", "func": "ent,ppm,cnsl", "gdr": "m", "ind": "74,132,100", "title": "35,82,324,529,4051,16,256", "reg": "na.ca.on.4876"}
+{"csize": "i", "cid": "7246", "func": "pr", "gdr": "m", "ind": "36", "title": "7617", "reg": "na.us.ca.84"}
+{"func": "ent", "gdr": "m", "ind": "69,6", "title": "35,8", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "b,e", "cid": "773962,22843", "func": "edu", "gdr": "u", "ind": "70,68", "title": "5,178", "reg": "eu.is"}
+{"age": "b", "csize": "c,h", "cid": "3331,3759", "func": "ppm", "gdr": "m", "ind": "15,11", "title": "47,4", "reg": "na.us.nj.70"}
+{"age": "c", "csize": "g", "cid": "1303477,165762", "func": "pr,edu", "gdr": "f", "ind": "6,68", "title": "5,56,348", "reg": "na.us.ny.684"}
+{"gdr": "f", "ind": "4", "title": "162", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "b,i", "cid": "1319", "func": "bd,eng", "gdr": "m", "ind": "1,4", "title": "1149,15319", "reg": "na.us.nc.664"}
+{"csize": "e", "cid": "18758", "func": "ppm,qa", "gdr": "m", "ind": "109", "title": "69,1152", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1497", "func": "eng", "gdr": "m", "ind": "7", "title": "10,9", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e", "cid": "1034475", "func": "ops,edu,finc", "gdr": "u", "ind": "106,6,96", "title": "6,3165,15442,547,593", "reg": "as.jp"}
+{"age": "c", "csize": "d", "cid": "443408", "func": "pr", "gdr": "m", "ind": "28", "title": "269", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "92", "title": "16", "reg": "eu.ie"}
+{"age": "c", "csize": "b,a", "cid": "320728,756656", "func": "it,ent,pr,bd,cnsl", "gdr": "m", "ind": "103,6,130,124", "title": "3,2927,390,6,2829,36,1279,177,103,2796,1265", "reg": "na.us.tx.64"}
+{"age": "c", "csize": "i", "cid": "2276", "func": "pr", "gdr": "m", "ind": "12", "title": "5482", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "d,e", "cid": "11687", "func": "lgl", "gdr": "f", "ind": "6", "title": "1573", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1053", "func": "lgl", "gdr": "m", "ind": "7", "title": "52", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1178", "func": "acad", "gdr": "m", "ind": "43", "title": "12", "reg": "as.jp.7672"}
+{"csize": "b", "cid": "369486", "func": "ent", "gdr": "u", "ind": "6", "title": "35,8", "reg": "na.us.ca.84"}
+{"age": "c", "func": "pr,cnsl", "gdr": "u", "ind": "6", "title": "6,8716", "reg": "as.jp.7672"}
+{"age": "c", "cid": "411784", "func": "eng", "gdr": "m", "ind": "113", "title": "39", "reg": "eu.nl.5664"}
+{"age": "b", "cid": "628269", "func": "it,ent,pr,css,ops", "gdr": "f", "ind": "113,111", "title": "49,969,241,81,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c,d", "cid": "760136,8772,359026", "func": "acct,eng,it,cnsl", "gdr": "u", "ind": "106,113,6", "title": "153,133,149,5,324", "reg": "as.jp.7672"}
+{"csize": "c", "cid": "1612748", "func": "ent", "gdr": "m", "ind": "109", "title": "6,103", "reg": "na.ca.bc.4880"}
+{"csize": "h", "cid": "47584", "func": "acad", "gdr": "u", "ind": "6", "title": "6,51", "reg": "as.jp"}
+{"csize": "b", "cid": "974802", "func": "ent", "gdr": "m", "ind": "90,80", "title": "5,103,460", "reg": "oc.au.4910"}
+{"age": "c", "csize": "h,d", "cid": "37104,6920", "func": "cre,it", "gdr": "u", "ind": "75,4", "title": "585,1861,665", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "1903284", "func": "it", "gdr": "m", "ind": "91", "title": "3221", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f", "cid": "6923", "gdr": "m", "ind": "9", "title": "18", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "b,c", "cid": "48937,1275517,1548605", "func": "ent", "gdr": "m", "ind": "113,80,25", "title": "35,10430,8", "reg": "na.us.ny.70"}
+{"age": "c", "func": "ops", "gdr": "m", "ind": "6", "title": "8670", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "d,e,b", "cid": "8193,6774,953676,13948,2204646", "func": "ent,it,eng", "gdr": "m", "ind": "90,96,100,4", "title": "153,133,35,1265", "reg": "eu.ch.4930"}
+{"func": "lgl", "gdr": "m", "ind": "9", "title": "52", "reg": "na.us.dc.97"}
+{"age": "b", "csize": "a", "cid": "1878975", "gdr": "u", "ind": "6", "title": "5", "reg": "eu.gb.4573"}
+{"age": "c", "func": "pr", "gdr": "f", "ind": "99", "title": "251", "reg": "as.jp.7672"}
+{"age": "c", "csize": "c", "cid": "102259", "gdr": "m", "ind": "6", "title": "2760", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "h", "cid": "162954", "func": "edu,it", "gdr": "m", "ind": "82", "title": "241,75", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "i", "cid": "1104736", "gdr": "u", "ind": "27", "title": "139,4114,16", "reg": "as.jp"}
+{"age": "c", "csize": "b,h,a", "cid": "3185,84368", "func": "eng,ent,pr,cnsl", "gdr": "m", "ind": "6,130,100,4", "title": "3,3458,596,7,35,9,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e", "cid": "13948", "func": "css", "gdr": "f", "ind": "4", "title": "2031,4582", "reg": "as.jp"}
+{"csize": "c,d", "cid": "35992", "func": "ent", "gdr": "m", "ind": "96,1", "title": "1,47", "reg": "eu.ie"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ca.732"}
+{"age": "c", "csize": "d", "cid": "62953", "gdr": "u", "ind": "4", "title": "5,18", "reg": "na.us.ca.84"}
+{"func": "ent", "gdr": "m", "ind": "6,105", "title": "35,792", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "93671", "gdr": "m", "ind": "130", "title": "202", "reg": "na.us.ca.84"}
+{"csize": "b,c,e", "cid": "842804,974353,11602", "func": "ent", "gdr": "m", "ind": "79,6,100", "title": "5,16,103,256", "reg": "na.us.ny.70"}
+{"csize": "f", "func": "edu", "gdr": "m", "ind": "68", "title": "95", "reg": "na.us.wa.91"}
+{"csize": "b,c", "func": "cnsl,eng", "gdr": "m", "ind": "4,18,11,84", "title": "3,41,18,72", "reg": "eu.fr.5249"}
+{"age": "a", "csize": "g", "cid": "1337", "func": "pr", "gdr": "m", "ind": "6", "title": "1752,6473", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "f,c,i", "cid": "1646", "func": "acad,pr", "gdr": "m", "ind": "68,6,11,4", "title": "390,18,331,576", "reg": "na.us.ca.748"}
+{"age": "d", "csize": "b,c", "cid": "313412", "func": "eng,it,ent,cnsl", "gdr": "m", "ind": "106,6,4", "title": "153,1967,2002,82,24,103,2371", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "121220,682067", "func": "ent,finc", "gdr": "m", "ind": "106,53,4", "title": "658,103,8", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "h", "cid": "1480", "func": "eng", "gdr": "m", "ind": "4", "title": "39", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "19075", "gdr": "u", "ind": "96", "title": "7", "reg": "as.jp.7672"}
+{"csize": "i", "cid": "1441", "func": "eng", "gdr": "f", "ind": "6", "title": "9", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d,e", "cid": "18261", "func": "eng", "gdr": "m", "ind": "4", "title": "9", "reg": "as.jp.7672"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "acad", "gdr": "u", "ind": "6", "title": "262,484", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "6", "reg": "as.jp"}
+{"age": "c", "csize": "c", "cid": "30258", "gdr": "m", "ind": "106", "title": "47", "reg": "as.in.dl.7151"}
+{"age": "d", "csize": "i", "cid": "1441", "func": "acad,finc", "gdr": "f", "ind": "6", "title": "1577", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1482", "func": "finc", "gdr": "f", "ind": "6", "title": "1833,224", "reg": "eu.lu"}
+{"age": "c", "csize": "h,d", "cid": "2307", "func": "supp", "gdr": "m", "ind": "104", "title": "1725,61", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "d", "cid": "58186", "gdr": "m", "ind": "9", "title": "18", "reg": "na.us.il.14"}
+{"age": "d", "csize": "h", "cid": "3050", "func": "edu", "gdr": "u", "ind": "68,91", "title": "355,47", "reg": "na.us.ct.70"}
+{"func": "edu,cnsl", "gdr": "f", "ind": "69", "title": "991", "reg": "as.jp"}
+{"age": "b", "func": "acad", "gdr": "m", "ind": "46", "title": "12", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "c", "cid": "115974", "func": "it,eng,ops", "gdr": "m", "ind": "118", "title": "9525,7036,15218", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "439909", "gdr": "m", "ind": "106", "title": "18", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "c", "cid": "2352531", "func": "mktg", "gdr": "m", "ind": "6", "title": "227", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "5612", "gdr": "f", "ind": "9", "title": "573", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "42080", "gdr": "m", "ind": "96", "title": "8", "reg": "na.us.ma.7"}
+{"csize": "b,c", "cid": "87033", "gdr": "f", "ind": "96", "title": "1238", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "1609574,613398", "func": "ent", "gdr": "m", "ind": "131,6", "title": "1967,35,18", "reg": "na.us.ca.84"}
+{"csize": "g,i", "cid": "3159", "func": "edu,it", "gdr": "m", "ind": "68", "title": "355,469,322", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "c,a", "cid": "20189", "func": "acad,ent", "gdr": "m", "ind": "130,11", "title": "6,35,19366", "reg": "na.us.ca.84"}
+{"csize": "d", "cid": "88762", "func": "cnsl,lgl", "gdr": "f", "ind": "6,10", "title": "3,52", "reg": "na.us.ca.49"}
+{"func": "ent", "gdr": "u", "ind": "6", "title": "1", "reg": "as.jp"}
+{"age": "c", "csize": "c", "cid": "974709,41860,40944", "func": "ent,mktg,finc", "gdr": "m", "ind": "106,6,4", "title": "133,1967,6,227,8228,916,103,154", "reg": "na.us.tn.536"}
+{"csize": "i", "cid": "1951", "func": "mktg,sale", "gdr": "m", "ind": "1", "title": "14403", "reg": "na.us.ca.51"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "6", "title": "35", "reg": "na.us.or.79"}
+{"age": "c", "csize": "f", "cid": "4073", "func": "edu", "gdr": "f", "ind": "68", "title": "124", "reg": "na.us.ct.70"}
+{"age": "b", "csize": "d", "cid": "1030498", "func": "eng", "gdr": "m", "ind": "6", "title": "4933", "reg": "na.us.ca.51"}
+{"age": "c", "csize": "b,d,i", "cid": "3523,7587,210800,3159", "func": "edu,css,pr,ops", "gdr": "m", "ind": "82,80,68,4", "title": "969,121,6,110,1279,3220,8", "reg": "na.us.ny.70"}
+{"csize": "d", "cid": "6958", "func": "pr", "gdr": "f", "ind": "82", "title": "8075", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "36998", "gdr": "m", "ind": "4", "title": "8", "reg": "na.us.ca.84"}
+{"func": "ent", "gdr": "f", "ind": "96", "title": "35,8", "reg": "na.us.ny.70"}
+{"csize": "e", "cid": "118734", "func": "bd,ops,finc", "gdr": "m", "ind": "80", "title": "3831,13852", "reg": "na.us.ca.49"}
+{"csize": "h", "cid": "2984", "func": "supp", "gdr": "m", "ind": "42", "title": "2560,6784,3818", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "39", "reg": "na.us.ny.70"}
+{"csize": "i", "cid": "2646", "func": "prod", "gdr": "f", "ind": "27", "title": "671", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,a", "func": "ent,pr", "gdr": "m", "ind": "6,82,99", "title": "47,103,334", "reg": "na.us.ny.70"}
+{"age": "c", "cid": "1617046", "func": "ent,it", "gdr": "m", "ind": "6", "title": "35,4484", "reg": "eu.gb.4550"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "6", "title": "1", "reg": "as.jp.7694"}
+{"csize": "b,c", "cid": "63841", "func": "ent", "gdr": "f", "ind": "98", "title": "195", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c,d", "cid": "37552,6961,48666", "func": "acad,ent,pr", "gdr": "f", "ind": "82,90,113,130,100", "title": "390,3488,103,460", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "e", "cid": "582944", "func": "ent,finc", "gdr": "m", "ind": "6,80", "title": "133,916,8,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "157235", "func": "acad", "gdr": "m", "ind": "1", "title": "8953", "reg": "na.us.ma.7"}
+{"csize": "b,c,d", "cid": "19042", "func": "acad,edu", "gdr": "u", "ind": "6,70", "title": "13688,356,56,2649", "reg": "as.jp.7672"}
+{"csize": "g", "cid": "167907", "func": "cre,pr", "gdr": "f", "ind": "109,28", "title": "11356,25,101", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e", "cid": "27333", "func": "finc", "gdr": "m", "ind": "126,24", "title": "1079,68", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h", "cid": "26950", "func": "mktg", "gdr": "m", "ind": "32", "title": "790,70", "reg": "na.us.tx.64"}
+{"csize": "g,c", "cid": "45512", "gdr": "u", "ind": "42", "title": "114", "reg": "as.jp"}
+{"age": "c", "csize": "b", "cid": "1526166", "func": "pr", "gdr": "f", "ind": "80", "title": "422", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "d,e", "cid": "16439", "gdr": "m", "ind": "113", "title": "162,8", "reg": "na.us.ma.7"}
+{"age": "d", "csize": "h", "cid": "165945", "func": "it", "gdr": "m", "ind": "41", "title": "8059,203,12399,249,1240", "reg": "as.jp"}
+{"csize": "i", "cid": "2517", "func": "edu", "gdr": "m", "ind": "68", "title": "445,56", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "2376157,150509", "func": "ent,acad,cnsl", "gdr": "m", "ind": "97", "title": "463,22,35", "reg": "na.us.ny.70"}
+{"csize": "b", "gdr": "m", "ind": "4", "title": "191", "reg": "na.us.il.14"}
+{"func": "ent", "gdr": "m", "ind": "44", "title": "1", "reg": "na.us.dc.97"}
+{"age": "d", "csize": "g", "cid": "165676", "func": "pr,eng", "gdr": "m", "ind": "80", "title": "3713,3212", "reg": "na.us.md.97"}
+{"age": "c", "csize": "b,d", "cid": "1631287,2184099,1766128", "func": "ent", "gdr": "m", "ind": "106,43", "title": "162,35,18,103", "reg": "na.us.ny.70"}
+{"csize": "i", "cid": "1497", "func": "eng", "gdr": "m", "ind": "7", "title": "9", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1038", "func": "prod", "gdr": "f", "ind": "11", "title": "27", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "403912", "gdr": "m", "ind": "129", "title": "16", "reg": "na.us.ny.70"}
+{"gdr": "u", "ind": "11", "title": "6", "reg": "as.jp.7687"}
+{"age": "c", "csize": "d", "cid": "91636", "gdr": "u", "ind": "8", "title": "7", "reg": "as.jp.7690"}
+{"csize": "b", "cid": "134396", "func": "pr", "gdr": "f", "ind": "6,11,137", "title": "121,6,422,1265", "reg": "na.us.dc.97"}
+{"csize": "d", "cid": "49554", "func": "eng,it", "gdr": "m", "ind": "43", "title": "153", "reg": "na.us.ny.70"}
+{"csize": "b", "func": "ent", "gdr": "m", "ind": "44", "title": "1", "reg": "na.us.ca.732"}
+{"csize": "b", "cid": "128760", "func": "css", "gdr": "m", "ind": "89", "title": "5256,23", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "i", "cid": "162479", "func": "eng", "gdr": "m", "ind": "3", "title": "9", "reg": "na.us.ca.84"}
+{"age": "c", "func": "css", "gdr": "f", "ind": "90", "title": "347", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "98", "reg": "na.ca.on.4876"}
+{"age": "c", "csize": "b", "cid": "122292", "gdr": "m", "ind": "96", "title": "6,8", "reg": "na.us.ca.84"}
+{"gdr": "f", "ind": "36", "reg": "as.hk"}
+{"age": "d", "csize": "c", "func": "ent", "gdr": "m", "ind": "4", "title": "35,8", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "h", "cid": "47584", "func": "hr", "gdr": "m", "ind": "6", "title": "4302,278", "reg": "as.jp.7672"}
+{"age": "c", "csize": "g,e", "cid": "6226,17041", "func": "med,acad,edu", "gdr": "f", "ind": "67,37,68", "title": "143,3087,1049,1265", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "g,a,i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6,4", "title": "22848,2760", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "f", "cid": "10686", "func": "ent", "gdr": "m", "ind": "37", "title": "1", "reg": "na.us.va.97"}
+{"age": "d", "csize": "c", "cid": "127579", "func": "eng", "gdr": "m", "ind": "4", "title": "9", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "3249", "func": "eng", "gdr": "m", "ind": "4", "title": "943", "reg": "na.us.ma.7"}
+{"csize": "b", "cid": "2408534", "gdr": "m", "ind": "96", "title": "47", "reg": "na.us.ny.70"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c,d", "cid": "204607,62953", "func": "cnsl,ops", "gdr": "u", "ind": "106,24,11,75,4", "title": "162,82,2637,624,478", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "84373", "gdr": "m", "ind": "8", "title": "7385", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c,g", "cid": "635565,369453,211876", "func": "acct,ent", "gdr": "u", "ind": "6,96,137", "title": "3800,6,5,35,8", "reg": "as.jp"}
+{"age": "c", "func": "eng", "gdr": "m", "ind": "124", "title": "9", "reg": "na.us.pa.628"}
+{"csize": "a", "func": "ent", "gdr": "m", "ind": "1", "title": "1", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "2292948", "gdr": "m", "ind": "6", "title": "7", "reg": "na.ca.qc.4863"}
+{"age": "c", "csize": "b,c", "cid": "236096", "func": "cre,ent,css,pr", "gdr": "u", "ind": "96", "title": "1281,969,35,1279,154", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h", "cid": "1258", "func": "prod", "gdr": "m", "ind": "6", "title": "1031", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "b,c", "cid": "868860,142551", "func": "cnsl", "gdr": "m", "ind": "6,96,8", "title": "82", "reg": "na.us.va.97"}
+{"csize": "b", "cid": "83072", "func": "ent,finc", "gdr": "m", "ind": "6", "title": "6,5,295,103", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "b", "cid": "771963", "func": "it", "gdr": "m", "ind": "6", "title": "6557", "reg": "na.ca.on.4876"}
+{"age": "d", "csize": "b,c", "cid": "395536", "gdr": "m", "ind": "123", "title": "8", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "38", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "96840", "gdr": "m", "ind": "96", "title": "8", "reg": "as.jp.7687"}
+{"age": "c", "gdr": "m", "ind": "96", "title": "17", "reg": "as.jp.7672"}
+{"age": "c", "csize": "d", "cid": "14176", "func": "eng,it", "gdr": "m", "ind": "8", "title": "153", "reg": "na.us.ca.84"}
+{"csize": "b,c,a", "cid": "37552", "func": "cre,ent,acad,pr,cnsl", "gdr": "m", "ind": "113,6,111,4,106,70,130", "title": "1281,121,5,82,35,701,103,331,999,460", "reg": "na.us.ma.7"}
+{"csize": "g", "cid": "157292", "func": "eng", "gdr": "m", "ind": "8", "title": "39", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "27851", "func": "supp", "gdr": "m", "ind": "43,6", "title": "1967,634", "reg": "na.us.ca.84"}
+{"age": "b", "func": "ent", "gdr": "m", "ind": "118", "title": "8,103", "reg": "na.us.ca.84"}
+{"csize": "b,c,a", "cid": "965982,2410455,472743,519429", "func": "mps,edu", "gdr": "m", "ind": "78,39,86,11,4", "title": "811,162,19923,2265,1265", "reg": "na.us.nc.48"}
+{"csize": "d", "cid": "101056", "gdr": "u", "ind": "113", "title": "6", "reg": "as.jp"}
+{"age": "d", "gdr": "m", "ind": "11", "title": "8", "reg": "as.jp.7672"}
+{"age": "c", "csize": "c", "cid": "383491", "gdr": "m", "ind": "4", "title": "6,8", "reg": "na.us.ca.84"}
+{"gdr": "u", "ind": "47", "title": "157", "reg": "as.jp.7689"}
+{"age": "c", "csize": "f,g", "cid": "20039,87186", "func": "edu", "gdr": "m", "ind": "8,68", "title": "8533,5,642,169", "reg": "as.jp.7672"}
+{"age": "c", "csize": "c", "cid": "84449", "func": "mktg", "gdr": "m", "ind": "4", "title": "227", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "b", "cid": "512658,58919", "func": "ent,acad,cnsl", "gdr": "m", "ind": "105,11", "title": "22,35,331", "reg": "eu.gb.4573"}
+{"csize": "i", "cid": "1178", "func": "finc", "gdr": "m", "ind": "43", "title": "17006", "reg": "na.us.ca.49"}
+{"csize": "d", "cid": "163979", "func": "hr,edu", "gdr": "m", "ind": "69", "title": "1030,400", "reg": "as.jp.7689"}
+{"age": "c", "gdr": "f", "ind": "43", "reg": "na.us.ca.84"}
+{"csize": "h", "cid": "47584", "func": "ops", "gdr": "u", "ind": "6", "title": "857", "reg": "as.jp"}
+{"age": "c", "func": "it", "gdr": "m", "ind": "6", "title": "100", "reg": "na.us.or.189"}
+{"age": "d", "csize": "b", "cid": "2330641,2390610", "func": "ent,it,eng", "gdr": "m", "ind": "11,24,8", "title": "2443,153,35,16,8", "reg": "na.us.ca.84"}
+{"csize": "d", "cid": "17345", "func": "prod", "gdr": "m", "ind": "4", "title": "1867", "reg": "na.us.ca.84"}
+{"age": "b", "func": "mps,edu", "gdr": "m", "ind": "77,33,75", "title": "2,718,15,1496", "reg": "na.us.nm.20"}
+{"age": "c", "csize": "c", "cid": "245173", "func": "prod", "gdr": "m", "ind": "4", "title": "2005", "reg": "na.us.ma.7"}
+{"csize": "g", "cid": "22434", "func": "ent,pr", "gdr": "m", "ind": "42,80", "title": "35,14579,16,2796", "reg": "na.us.ny.684"}
+{"age": "c", "csize": "d,e,b,c,h", "cid": "8772,18645,873540,59529", "func": "acct,cnsl", "gdr": "u", "ind": "98,112,6,11,4,50", "title": "3800,5,82,18,4401", "reg": "as.jp.7672"}
+{"age": "c", "gdr": "u", "ind": "80", "title": "16", "reg": "as.sg"}
+{"age": "c", "csize": "f,e", "cid": "20173", "func": "bd", "gdr": "m", "ind": "17", "title": "2620", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "c", "cid": "222172", "func": "ent,it,eng", "gdr": "m", "ind": "108", "title": "153,103", "reg": "as.jp.7688"}
+{"age": "b", "csize": "i", "cid": "1586", "func": "eng", "gdr": "m", "ind": "6", "title": "651", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "d", "cid": "1051903", "func": "ent,it,eng", "gdr": "m", "ind": "12", "title": "153,35", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c", "cid": "17656,1633431", "func": "acad,ppm,cnsl", "gdr": "m", "ind": "6,96,4", "title": "6,82,12135", "reg": "na.us.ca.84"}
+{"csize": "d", "func": "edu", "gdr": "u", "ind": "68", "title": "56", "reg": "as.jp.7692"}
+{"age": "c", "csize": "g", "cid": "165158", "func": "ent,eng,ops", "gdr": "m", "ind": "28,8,4", "title": "174,35,24,120,8", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1441", "gdr": "m", "ind": "6,113", "title": "47", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "20778", "func": "prod", "gdr": "m", "ind": "4", "title": "1207", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "3545", "func": "bd,it", "gdr": "m", "ind": "4", "title": "8988,3221,5859", "reg": "na.us.dc.97"}
+{"age": "c", "gdr": "u", "ind": "6", "title": "8", "reg": "as.jp.7672"}
+{"age": "c", "csize": "h", "cid": "1258", "func": "pr", "gdr": "m", "ind": "6", "title": "49", "reg": "as.jp.7672"}
+{"gdr": "u", "ind": "36", "reg": "as.jp.7672"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "bd,sale,ops", "gdr": "u", "ind": "6", "title": "1717,12304", "reg": "as.jp.7688"}
+{"age": "c", "csize": "g", "cid": "157343", "func": "ppm", "gdr": "f", "ind": "68", "title": "213", "reg": "na.us.ri.648"}
+{"csize": "b", "gdr": "m", "ind": "28", "title": "5", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "c,d,e", "cid": "28690,69131,13948", "func": "edu", "gdr": "m", "ind": "6,109,4,141", "title": "1967,6,8,593", "reg": "na.us.ca.84"}
+{"csize": "h", "cid": "3072", "func": "ops,it", "gdr": "f", "ind": "7", "title": "1216,4271,1943", "reg": "na.us.ca.51"}
+{"gdr": "m", "ind": "6", "title": "116", "reg": "na.us.ca.84"}
+{"csize": "a", "func": "ent", "gdr": "m", "ind": "6,119", "title": "47,233", "reg": "na.us.ca.84"}
+{"csize": "b", "func": "ent", "gdr": "m", "ind": "6,4", "title": "35,233", "reg": "na.us.ca.84"}
+{"gdr": "u", "ind": "6", "reg": "eu.fr.5227"}
+{"age": "c", "csize": "d", "cid": "271301", "func": "ent", "gdr": "m", "ind": "80", "title": "35,8", "reg": "na.us.ca.84"}
+{"csize": "b", "func": "admn", "gdr": "f", "ind": "106", "title": "76", "reg": "as.jp.7688"}
+{"age": "c", "csize": "b,c", "cid": "489967", "func": "eng,it,ppm,ent", "gdr": "f", "ind": "6", "title": "1,4,266", "reg": "eu.it.5587"}
+{"csize": "b", "cid": "858249", "func": "ent", "gdr": "m", "ind": "28", "title": "35", "reg": "eu.at"}
+{"age": "b", "csize": "d", "cid": "302296", "func": "admn,ppm,pr,prod", "gdr": "f", "ind": "96", "title": "4025,14997,218,2796", "reg": "na.us.ca.84"}
+{"gdr": "u", "ind": "5", "reg": "as.jp"}
+{"csize": "h", "cid": "1666", "func": "bd", "gdr": "f", "ind": "4", "title": "6824", "reg": "na.us.ca.84"}
+{"csize": "h,i", "cid": "5097", "func": "it", "gdr": "m", "ind": "28", "title": "1292", "reg": "na.us.ca.49"}
+{"age": "b", "csize": "d,e", "cid": "31757", "func": "ent,bd,css", "gdr": "u", "ind": "96,8", "title": "3982,969,35", "reg": "as.in.mh.7150"}
+{"func": "ent,edu", "gdr": "f", "ind": "68", "title": "1,95", "reg": "as.jp.7688"}
+{"csize": "d", "cid": "107407", "func": "ops", "gdr": "f", "ind": "136", "title": "28", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "b", "func": "ent", "gdr": "f", "ind": "6", "title": "35,8", "reg": "as.jp.7672"}
+{"csize": "d", "cid": "27033", "func": "ppm,cnsl", "gdr": "m", "ind": "131,6", "title": "719,82", "reg": "na.us.il.14"}
+{"age": "c", "csize": "i", "cid": "1035", "func": "ppm", "gdr": "m", "ind": "4", "title": "6124,7459", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e", "cid": "797402", "func": "ent", "gdr": "m", "ind": "69", "title": "8,103", "reg": "na.us.ca.84"}
+{"csize": "b", "func": "ent", "gdr": "m", "ind": "28", "title": "1", "reg": "as.jp.7672"}
+{"age": "d", "csize": "h,d", "cid": "165945,106984,587562", "func": "cnsl", "gdr": "u", "ind": "43,6,41,46,106,80,131", "title": "162,133,5,82", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "c", "cid": "643119", "func": "ent", "gdr": "m", "ind": "6", "title": "8,103", "reg": "eu.de.4944"}
+{"age": "c", "csize": "d,b", "func": "mktg,it,eng", "gdr": "m", "ind": "6", "title": "4778,1197", "reg": "oc.au.4910"}
+{"age": "c", "csize": "b,e", "cid": "468493,20205", "func": "edu", "gdr": "m", "ind": "99", "title": "47,307", "reg": "eu.gb.4573"}
+{"age": "c", "csize": "d", "cid": "19473", "gdr": "m", "ind": "106", "title": "3393,2337", "reg": "as.in.mh.7150"}
+{"age": "b", "func": "acad", "gdr": "m", "ind": "46", "title": "12", "reg": "na.us.az.620"}
+{"csize": "e", "cid": "312925,118219", "func": "ent,pr", "gdr": "m", "ind": "82,8,113,119", "title": "1,5,35,334", "reg": "as.jp.7687"}
+{"func": "cre", "gdr": "m", "ind": "6", "title": "11925", "reg": "eu.gb.4550"}
+{"age": "c", "gdr": "m", "ind": "4", "title": "5", "reg": "eu.gb.4550"}
+{"age": "c", "csize": "b", "cid": "482979", "func": "cnsl", "gdr": "m", "ind": "43", "title": "82", "reg": "as.in.dl.7151"}
+{"csize": "b", "cid": "102950", "gdr": "m", "ind": "4", "title": "6", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "11", "title": "47", "reg": "na.ca.on.4876"}
+{"csize": "e", "cid": "27550", "func": "cre,ppm", "gdr": "f", "ind": "90,37", "title": "133,2227,155,12793", "reg": "eu.gb"}
+{"age": "d", "csize": "b,g,d", "cid": "804748,59067,325969", "gdr": "m", "ind": "105,80,100,11", "title": "12976,1967,5", "reg": "eu.gb.4586"}
+{"csize": "a", "gdr": "m", "ind": "70", "reg": "na.us.ut.262"}
+{"func": "ent", "gdr": "f", "ind": "47", "title": "1,112", "reg": "na.us.il.704"}
+{"csize": "a", "func": "ent,it,eng", "gdr": "m", "ind": "6", "title": "153,1", "reg": "eu.gb.4550"}
+{"age": "c", "gdr": "m", "ind": "91", "reg": "na.us.nj.70"}
+{"age": "c", "gdr": "m", "ind": "109", "reg": "na.us.ca.51"}
+{"age": "c", "csize": "d", "cid": "244517,13165", "func": "css", "gdr": "m", "ind": "6,96,4", "title": "4763,2585,1056", "reg": "eu.it.5617"}
+{"age": "d", "csize": "d", "cid": "34338", "func": "eng,it", "gdr": "m", "ind": "17", "title": "153", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "i", "cid": "1070", "func": "it", "gdr": "f", "ind": "8", "title": "7017,20656", "reg": "eu.gb.4573"}
+{"age": "d", "gdr": "m", "ind": "5", "title": "5", "reg": "oc.nz"}
+{"age": "a", "csize": "f", "cid": "13061", "func": "ppm,it", "gdr": "m", "ind": "75", "title": "313", "reg": "oc.au.4893"}
+{"age": "c", "csize": "b", "gdr": "u", "ind": "69,11", "title": "4410,5,169,60", "reg": "as.vn"}
+{"csize": "c", "cid": "650463", "func": "eng", "gdr": "m", "ind": "132", "title": "41", "reg": "na.us.hi.332"}
+{"age": "c", "gdr": "m", "ind": "28", "title": "16", "reg": "as.jp"}
+{"csize": "d", "cid": "6918", "func": "pr", "gdr": "f", "ind": "36", "title": "682", "reg": "as.jp.7672"}
+{"age": "c", "func": "ent", "gdr": "f", "ind": "6", "title": "35,8", "reg": "eu.gb.4573"}
+{"csize": "g,i", "cid": "1654,1646", "func": "edu", "gdr": "m", "ind": "68", "title": "10475,4548", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "i", "cid": "162479", "func": "eng", "gdr": "m", "ind": "3", "title": "1685", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "20373", "gdr": "m", "ind": "80", "title": "7", "reg": "na.us.mi.35"}
+{"age": "c", "csize": "d,a", "cid": "242665,1505850", "gdr": "m", "ind": "4", "title": "47,84", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c,i", "cid": "157301,118373", "func": "ent,eng", "gdr": "u", "ind": "112,6,124", "title": "10,3078", "reg": "as.jp.7690"}
+{"age": "c", "csize": "c", "cid": "20253,2056738", "func": "ppm,ent", "gdr": "u", "ind": "99,6", "title": "4469,3458,1299,103", "reg": "as.jp.7672"}
+{"csize": "h", "cid": "5393", "gdr": "f", "ind": "141", "title": "46", "reg": "as.jp"}
+{"csize": "i", "cid": "11448", "func": "finc", "gdr": "u", "ind": "43", "title": "1158", "reg": "as.jp.7672"}
+{"gdr": "u", "ind": "6", "title": "6", "reg": "as.jp"}
+{"age": "c", "cid": "1322304,1432713", "gdr": "m", "ind": "106,6,34", "title": "6614,1265,154", "reg": "as.jp"}
+{"age": "c", "csize": "c,a", "cid": "701911,701878", "func": "ent", "gdr": "m", "ind": "6", "title": "121,2002", "reg": "oc.nc"}
+{"csize": "b,c,a", "cid": "62355", "func": "cre,pr,css", "gdr": "m", "ind": "82,6", "title": "5301,160,1092,24,7066", "reg": "na.us.nv.412"}
+{"age": "c", "csize": "f,g", "cid": "7284", "func": "edu", "gdr": "m", "ind": "68", "title": "6138", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "4", "reg": "eu.ee"}
+{"csize": "f", "cid": "72974", "func": "edu", "gdr": "u", "ind": "68", "title": "56", "reg": "as.jp"}
+{"age": "c", "csize": "e", "cid": "435658", "func": "acad,it,ops", "gdr": "u", "ind": "70,8", "title": "116,1448,2469,2164", "reg": "as.jp.7672"}
+{"csize": "b", "func": "supp,ent,it", "gdr": "m", "ind": "6", "title": "436,1,2815", "reg": "na.us.fl.579"}
+{"age": "c", "gdr": "m", "ind": "4", "reg": "na.us.nv.672"}
+{"age": "d", "csize": "g,h", "cid": "3147", "func": "edu,cnsl", "gdr": "m", "ind": "5,68", "title": "9458,82", "reg": "na.us.pa.628"}
+{"age": "c", "gdr": "m", "ind": "6", "title": "8", "reg": "eu.se.8039"}
+{"age": "d", "csize": "d,a", "cid": "22846", "func": "supp,it,cnsl", "gdr": "m", "ind": "4", "title": "3,647,4840", "reg": "eu.fr.5227"}
+{"csize": "h", "cid": "5393", "gdr": "u", "ind": "141", "title": "2", "reg": "as.jp"}
+{"age": "c", "csize": "c", "cid": "122408", "func": "ent", "gdr": "m", "ind": "30", "title": "1", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "c", "cid": "260321", "func": "ppm", "gdr": "m", "ind": "80,4", "title": "23807,154", "reg": "na.us.ga.52"}
+{"csize": "a", "func": "pr", "gdr": "m", "ind": "6", "title": "101", "reg": "na.us.ma.7"}
+{"age": "c", "gdr": "m", "ind": "4", "title": "6", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "prod", "gdr": "m", "ind": "6", "title": "1423", "reg": "eu.se.8039"}
+{"age": "c", "csize": "e,b,c,a", "cid": "737153,53866,414028", "func": "ent,acad,cnsl", "gdr": "m", "ind": "6,119", "title": "1,113,82", "reg": "na.ca.bc.4880"}
+{"func": "ent", "gdr": "m", "ind": "36", "title": "1", "reg": "na.us.nc.152"}
+{"age": "c", "csize": "b", "cid": "153220", "func": "ent,it,eng", "gdr": "m", "ind": "84", "title": "153,6,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "12384", "func": "lgl", "gdr": "m", "ind": "106,68", "title": "18,641,460", "reg": "na.us.ca.84"}
+{"csize": "g", "cid": "157343", "func": "admn,edu", "gdr": "f", "ind": "68", "title": "12039,6532", "reg": "na.us.ri.648"}
+{"csize": "h", "cid": "1792", "func": "edu", "gdr": "m", "ind": "68", "title": "8047", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "2040541", "func": "mktg,ent", "gdr": "f", "ind": "6,27", "title": "227,195", "reg": "na.us.ca.84"}
+{"csize": "e", "cid": "12227", "func": "prod,eng", "gdr": "m", "ind": "6", "title": "1592,11536", "reg": "na.us.nj.70"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "6", "title": "35,8", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "f", "cid": "24031", "func": "it", "gdr": "m", "ind": "14", "title": "2772", "reg": "na.us.me.640"}
+{"func": "it", "gdr": "m", "ind": "4", "title": "922", "reg": "na.us.nc.664"}
+{"gdr": "f", "ind": "6", "title": "47", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "i", "cid": "2828", "gdr": "m", "ind": "8", "title": "36,24", "reg": "na.ca"}
+{"age": "c", "csize": "b", "cid": "132648", "gdr": "m", "ind": "80", "title": "154", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "b", "gdr": "m", "ind": "43,25", "title": "6,154", "reg": "na.us.co.34"}
+{"func": "eng,it", "gdr": "m", "ind": "4", "title": "132,9", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "c", "cid": "1000746", "func": "eng,it", "gdr": "m", "ind": "6", "title": "153", "reg": "eu.pt.7397"}
+{"age": "d", "csize": "b", "cid": "82037", "func": "ent", "gdr": "m", "ind": "43", "title": "1405", "reg": "na.us.ca.84"}
+{"csize": "g", "cid": "166368", "func": "pr", "gdr": "m", "ind": "82", "title": "2633", "reg": "as.jp.7672"}
+{"age": "d", "gdr": "m", "ind": "43", "title": "3075", "reg": "as.in.dl.7151"}
+{"csize": "e", "cid": "64359", "func": "sale,it", "gdr": "f", "ind": "75", "title": "1900,65", "reg": "na.us.nc.664"}
+{"age": "c", "csize": "a", "cid": "644511", "func": "it", "gdr": "m", "ind": "6", "title": "2222,517", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "i", "cid": "1284", "gdr": "m", "ind": "41", "title": "7", "reg": "na.us.ny.70"}
+{"csize": "c", "cid": "124331", "gdr": "m", "ind": "4", "title": "16028", "reg": "na.us.ny.16"}
+{"age": "d", "func": "cnsl", "gdr": "m", "ind": "11", "title": "182", "reg": "na.us.nc.48"}
+{"age": "c", "gdr": "m", "ind": "25,11", "title": "6,47,5", "reg": "na.us.mt.304"}
+{"age": "c", "csize": "i", "cid": "1494", "func": "acad", "gdr": "m", "ind": "8", "title": "9069,1144,2375", "reg": "na.ca.on.4884"}
+{"age": "c", "csize": "e", "cid": "11329", "func": "css", "gdr": "m", "ind": "96,69", "title": "5,107,360", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "i", "cid": "1441,3084", "func": "acad,ops,edu", "gdr": "m", "ind": "6,68", "title": "95,10903", "reg": "na.us.ca.49"}
+{"func": "acad,cre,pr", "gdr": "m", "ind": "70", "title": "170,51,348", "reg": "na.us.ny.70"}
+{"csize": "g,i", "cid": "1415", "func": "cnsl", "gdr": "m", "ind": "96", "title": "3", "reg": "na.ca.on.4884"}
+{"gdr": "f", "ind": "6", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "g,d", "cid": "15027", "gdr": "f", "ind": "6", "title": "7", "reg": "na.us.ma.7"}
+{"csize": "b", "cid": "385645", "gdr": "m", "ind": "104", "title": "18", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "162479", "func": "ops,sale", "gdr": "m", "ind": "3", "title": "13404", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "3781", "func": "ppm", "gdr": "m", "ind": "75", "title": "6437", "reg": "na.ca.bc.4873"}
+{"age": "c", "gdr": "u", "ind": "6", "title": "6,5", "reg": "as.jp.7687"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ar.258"}
+{"csize": "g,h", "cid": "1480", "func": "eng,it", "gdr": "m", "ind": "4", "title": "153", "reg": "na.us.ca.84"}
+{"csize": "c", "gdr": "m", "ind": "106", "title": "6", "reg": "na.us.il.14"}
+{"age": "b", "csize": "e", "cid": "51861", "func": "css,edu", "gdr": "f", "ind": "73,68", "title": "13489,9268", "reg": "na.us.ar.440"}
+{"age": "c", "csize": "b,a", "cid": "1820511", "func": "ent", "gdr": "m", "ind": "6", "title": "1,35,8", "reg": "na.us.ny.70"}
+{"csize": "e", "cid": "165872", "func": "cnsl", "gdr": "m", "ind": "47", "title": "22", "reg": "na.us.pa.628"}
+{"age": "c", "csize": "i", "cid": "9062", "gdr": "m", "ind": "32", "title": "50", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "b,e,i", "cid": "1225250,1319,1335621", "func": "pr,it,eng", "gdr": "m", "ind": "82,132,1", "title": "1149,390,1967,5,14886", "reg": "na.us.nc.664"}
+{"csize": "d,a", "cid": "166106,249662", "func": "it,eng,ops", "gdr": "f", "ind": "96,29,38", "title": "10846,2159,10,59,5", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c,d", "cid": "373347,1435567,229224", "gdr": "m", "ind": "43,46", "title": "133,154", "reg": "na.us.ny.70"}
+{"func": "ppm", "gdr": "f", "ind": "90", "title": "155", "reg": "na.us.ga.52"}
+{"age": "d", "csize": "c", "cid": "400857", "gdr": "m", "ind": "11", "title": "4582", "reg": "na.us.ma.7"}
+{"gdr": "m", "ind": "6", "title": "6", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "e,i", "cid": "16138,1463", "func": "cre,css,it", "gdr": "m", "ind": "84,89", "title": "59,107,9321", "reg": "na.us.il.14"}
+{"age": "c", "gdr": "m", "ind": "96", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "284024", "gdr": "f", "ind": "6,96", "title": "133,6,8", "reg": "as.jp.7672"}
+{"csize": "g,h", "cid": "165762", "func": "edu", "gdr": "u", "ind": "68", "title": "205", "reg": "na.us.ny.684"}
+{"age": "c", "csize": "i", "cid": "2516", "func": "edu", "gdr": "m", "ind": "68", "title": "124", "reg": "na.us.mi.35"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "96", "title": "35,8", "reg": "as.jp.7672"}
+{"age": "c", "csize": "b,f,e", "cid": "2259201,63713", "func": "ent,it", "gdr": "m", "ind": "43,9,4", "title": "221,8238,35,573,218", "reg": "na.us.fl.828"}
+{"csize": "g", "cid": "2076", "func": "acad", "gdr": "f", "ind": "11", "title": "7,12", "reg": "na.us.ri.648"}
+{"age": "c", "csize": "h", "cid": "5393", "gdr": "u", "ind": "141", "title": "50", "reg": "as.jp"}
+{"csize": "c,d", "cid": "164559", "func": "ops", "gdr": "m", "ind": "100", "title": "81", "reg": "na.us.ca.84"}
+{"csize": "b", "func": "pr", "gdr": "m", "ind": "6", "title": "49", "reg": "na.us.mo.376"}
+{"age": "d", "csize": "c", "cid": "130159", "func": "eng", "gdr": "m", "ind": "119", "title": "180", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "h", "cid": "1666", "func": "eng", "gdr": "m", "ind": "4", "title": "39", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e", "cid": "13948", "func": "eng", "gdr": "m", "ind": "4", "title": "520", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "84", "title": "35", "reg": "as.jp.7672"}
+{"csize": "c", "cid": "116057", "func": "ops", "gdr": "m", "ind": "84", "title": "5727", "reg": "eu.cy"}
+{"age": "d", "csize": "g,h,i", "cid": "20039,36987", "func": "pr,edu", "gdr": "u", "ind": "68,81", "title": "19606,13998", "reg": "as.jp.7688"}
+{"age": "c", "csize": "c,a", "cid": "24415,1527800", "func": "finc", "gdr": "m", "ind": "106,33", "title": "9348,8", "reg": "na.us.ca.84"}
+{"csize": "b,d", "cid": "163980", "func": "ent", "gdr": "m", "ind": "4", "title": "35,18", "reg": "la.uy"}
+{"csize": "g,d,b,c,h", "cid": "6593,1892800,18209", "func": "mps,pr,cnsl,sale", "gdr": "m", "ind": "90,28,80", "title": "8429,17499,10290,8083,5626,1787,10064", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "i", "cid": "3356", "gdr": "m", "ind": "68", "title": "125", "reg": "na.us.nc.664"}
+{"age": "c", "csize": "c,d", "cid": "27951,73762,953676", "func": "ent", "gdr": "m", "ind": "96,131,100,4", "title": "121,5,35,8,1344", "reg": "na.us.ca.84"}
+{"csize": "b", "func": "it", "gdr": "m", "ind": "6", "title": "382", "reg": "na.ca.on.4876"}
+{"csize": "e", "cid": "7287", "func": "pr", "gdr": "f", "ind": "96", "title": "7043", "reg": "na.us.ca.84"}
+{"csize": "a", "cid": "78968", "func": "ent", "gdr": "m", "ind": "140", "title": "1", "reg": "na.us.ak.38"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "75", "title": "11595", "reg": "na.us.md.7416"}
+{"age": "c", "csize": "d", "cid": "13165", "func": "cre,it", "gdr": "m", "ind": "6", "title": "221,245,627", "reg": "na.us.nj.70"}
+{"age": "c", "csize": "b", "func": "med,eng,cnsl", "gdr": "m", "ind": "4,13", "title": "1261,9,7319", "reg": "na.us.ma.7"}
+{"gdr": "u", "ind": "38", "reg": "as.jp"}
+{"func": "pr", "gdr": "m", "ind": "103", "title": "2003", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "h", "cid": "2780", "func": "it", "gdr": "m", "ind": "96", "title": "132", "reg": "na.us.fl.896"}
+{"csize": "b", "cid": "741530", "gdr": "m", "ind": "70", "title": "47", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "d", "func": "supp,it", "gdr": "m", "ind": "4", "title": "1432", "reg": "na.ca.ns.4874"}
+{"csize": "g,d", "cid": "164408", "func": "cre", "gdr": "m", "ind": "80", "title": "2033", "reg": "na.us.oh.21"}
+{"age": "c", "func": "finc,cnsl", "gdr": "m", "ind": "44", "title": "3,4891,4654", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "g", "cid": "801170", "func": "cnsl,it", "gdr": "m", "ind": "80", "title": "186", "reg": "na.us.nc.664"}
+{"gdr": "f", "ind": "6", "reg": "na.us.wa.91"}
+{"csize": "i", "cid": "1482", "func": "eng", "gdr": "m", "ind": "6", "title": "281", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1028", "func": "supp,mktg,ppm", "gdr": "f", "ind": "96", "title": "1805,2238,123,2670,398,2406", "reg": "na.us.ca.84"}
+{"age": "c", "cid": "1340313", "func": "ent,pr", "gdr": "m", "ind": "6,79,110", "title": "1,35,73", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "d", "cid": "23724", "func": "pr,eng", "gdr": "m", "ind": "4,103", "title": "11237,673", "reg": "na.us.wi.63"}
+{"gdr": "m", "ind": "38", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "6", "reg": "as.sg"}
+{"age": "c", "csize": "d", "cid": "2374003", "func": "eng", "gdr": "m", "ind": "24", "title": "9", "reg": "na.us.ma.7"}
+{"csize": "d", "cid": "556381", "func": "admn,acct", "gdr": "f", "ind": "104", "title": "17411,1097", "reg": "na.us.ca.284"}
+{"age": "d", "csize": "h", "cid": "1666", "func": "lgl", "gdr": "u", "ind": "4", "title": "642,6025", "reg": "na.us.ca.732"}
+{"age": "c", "cid": "1345475", "func": "eng", "gdr": "m", "ind": "6", "title": "440", "reg": "na.us.me.640"}
+{"age": "c", "csize": "b", "cid": "1891520", "gdr": "m", "ind": "100,4", "title": "460", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "b,e", "cid": "15564", "func": "eng", "gdr": "m", "ind": "3,53", "title": "332,607", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "136", "reg": "na.us.pa.77"}
+{"age": "d", "gdr": "m", "ind": "32", "title": "6", "reg": "na.us.nc.664"}
+{"age": "a", "gdr": "m", "ind": "103", "reg": "na.us.fl.824"}
+{"csize": "b", "cid": "156272", "gdr": "m", "ind": "4", "title": "8", "reg": "na.us.me.73"}
+{"age": "c", "csize": "e", "cid": "10643", "func": "prod", "gdr": "m", "ind": "4", "title": "270", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "163415", "func": "mktg,pr,css", "gdr": "m", "ind": "107", "title": "5083,5237", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "b", "cid": "1460382", "func": "finc", "gdr": "m", "ind": "6,4", "title": "916,8", "reg": "na.us.ca.84"}
+{"csize": "d", "cid": "107407", "func": "ppm", "gdr": "m", "ind": "136", "title": "106", "reg": "na.us.ca.49"}
+{"func": "ent", "gdr": "f", "ind": "126", "title": "5642,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "e", "cid": "164894", "func": "bd", "gdr": "m", "ind": "80", "title": "15319,18", "reg": "na.us.nc.664"}
+{"age": "c", "csize": "g", "cid": "1337", "func": "prod", "gdr": "m", "ind": "6", "title": "7504", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent,it,eng", "gdr": "m", "ind": "6", "title": "153,103", "reg": "na.us.wa.91"}
+{"func": "eng,it,ent,cnsl", "gdr": "m", "ind": "6,137", "title": "3,153,3898,103", "reg": "na.us.il.14"}
+{"age": "c", "csize": "i,a", "cid": "1035", "func": "eng", "gdr": "m", "ind": "4", "title": "1734,47", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "d", "cid": "32387", "func": "qa,eng", "gdr": "m", "ind": "4", "title": "990", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "8", "title": "2", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "b,c", "cid": "302663", "func": "cnsl", "gdr": "m", "ind": "6,4", "title": "324,8", "reg": "na.us.ca.84"}
+{"func": "ent", "gdr": "m", "ind": "6", "title": "1", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "b", "gdr": "m", "ind": "4", "title": "47", "reg": "na.us.ut.716"}
+{"csize": "b", "cid": "2130959,1991145", "func": "ent", "gdr": "m", "ind": "6,4", "title": "1,103", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1040", "gdr": "m", "ind": "11", "title": "286,47", "reg": "na.us.fl.56"}
+{"age": "c", "func": "css", "gdr": "f", "ind": "78", "title": "3080", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "f", "ind": "9", "reg": "na.us.co.34"}
+{"csize": "i", "cid": "4536", "func": "css,it,ops", "gdr": "m", "ind": "116", "title": "107,1106,1312,1129", "reg": "na.ca.on.4876"}
+{"age": "c", "csize": "c,a", "cid": "401473", "gdr": "m", "ind": "130", "title": "8", "reg": "na.us.ny.70"}
+{"age": "c", "func": "ent,cre,pr", "gdr": "m", "ind": "72,99", "title": "49,25,1326,101", "reg": "na.us.ca.82"}
+{"func": "ent", "gdr": "f", "ind": "11", "title": "1", "reg": "na.us.ma.7"}
+{"age": "b", "cid": "1317630", "gdr": "f", "ind": "1", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "i", "cid": "162479", "func": "eng", "gdr": "m", "ind": "3", "title": "174", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g,a", "cid": "15027,714511", "func": "pr,eng", "gdr": "m", "ind": "30,6", "title": "596,10980,326", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d", "cid": "467665", "func": "pr,eng", "gdr": "m", "ind": "70,4", "title": "6,2729,39", "reg": "na.us.hi.332"}
+{"age": "b", "csize": "g", "cid": "165072", "func": "cre,edu", "gdr": "m", "ind": "68", "title": "511,95,25", "reg": "oc.au.4905"}
+{"csize": "d", "gdr": "f", "ind": "6", "title": "200", "reg": "as.jp.7671"}
+{"age": "c", "csize": "g,b,c,h", "cid": "288351,1140919,1337,3029", "func": "pr", "gdr": "f", "ind": "14,6", "title": "49,330", "reg": "na.us.ca.84"}
+{"gdr": "f", "ind": "4", "reg": "na.ca.on.4884"}
+{"age": "c", "csize": "b", "cid": "1026339,1227087", "func": "ent", "gdr": "m", "ind": "131,145", "title": "103", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "4", "title": "1", "reg": "na.us.mi.35"}
+{"gdr": "m", "ind": "113", "reg": "as.jp.7672"}
+{"age": "c", "csize": "c", "cid": "20624", "func": "mktg", "gdr": "m", "ind": "99", "title": "4719", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1673", "func": "cre", "gdr": "f", "ind": "80", "title": "614", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "a", "gdr": "m", "ind": "6", "title": "6", "reg": "na.us.ma.7"}
+{"age": "c", "gdr": "m", "ind": "6", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "10692", "func": "cre", "gdr": "m", "ind": "6", "title": "1009,25", "reg": "na.us.ca.49"}
+{"func": "ent", "gdr": "m", "ind": "6", "title": "1", "reg": "na.us.ca.84"}
+{"csize": "b", "func": "pr", "gdr": "m", "ind": "82", "title": "49,10185", "reg": "na.us.ca.84"}
+{"csize": "e", "cid": "5807", "func": "acad", "gdr": "m", "ind": "70", "title": "3846", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "38016", "func": "pr", "gdr": "m", "ind": "98", "title": "8785", "reg": "na.us.dc.97"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ny.70"}
+{"age": "b", "csize": "b", "cid": "1018823,147968", "func": "it", "gdr": "m", "ind": "140,6,80", "title": "1729,100", "reg": "na.us.ok.588"}
+{"func": "sale", "gdr": "m", "ind": "27", "title": "14", "reg": "na.us.vt.130"}
+{"age": "b", "csize": "d", "cid": "538828", "gdr": "m", "ind": "55", "title": "17", "reg": "na.us.nj.77"}
+{"csize": "h", "cid": "5393", "func": "ops", "gdr": "u", "ind": "141", "title": "57,10126", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "1814291", "gdr": "m", "ind": "76", "title": "6,8", "reg": "na.us.ca.49"}
+{"age": "b", "csize": "c", "cid": "1612748", "func": "ent,ops", "gdr": "m", "ind": "109,6", "title": "135,1", "reg": "na.us.ca.84"}
+{"csize": "g", "cid": "5522", "func": "ops", "gdr": "m", "ind": "6", "title": "4462", "reg": "na.us.mn.512"}
+{"age": "c", "csize": "c,d", "cid": "33751,229978", "gdr": "f", "ind": "6,100", "title": "3628,6370,8,1265", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "1035", "func": "ppm", "gdr": "m", "ind": "4", "title": "398", "reg": "na.us.wa.91"}
+{"age": "c", "gdr": "m", "ind": "99", "reg": "na.us.pa.77"}
+{"age": "c", "csize": "i", "cid": "2340", "func": "cnsl", "gdr": "m", "ind": "42", "title": "3", "reg": "na.us.oh.184"}
+{"gdr": "m", "ind": "4", "reg": "na.us.tn.536"}
+{"csize": "c", "cid": "375270", "gdr": "m", "ind": "96", "title": "8", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "6", "reg": "eu.dk.5038"}
+{"age": "c", "csize": "f,b,i", "cid": "9972", "func": "ent,mktg", "gdr": "m", "ind": "24,136", "title": "1,63", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "166638", "func": "supp,med,it,ops", "gdr": "m", "ind": "68", "title": "2509,4454,944,4619", "reg": "na.us.ga.50"}
+{"csize": "i", "cid": "1441", "func": "eng", "gdr": "u", "ind": "6", "title": "1358", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "i", "cid": "1035", "gdr": "m", "ind": "4", "title": "88", "reg": "na.us.wa.91"}
+{"gdr": "m", "ind": "6", "reg": "na.us.ga.52"}
+{"age": "c", "csize": "c", "cid": "373896", "gdr": "m", "ind": "96", "title": "17", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "3965", "func": "med,hr", "gdr": "f", "ind": "11", "title": "917,274", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1400", "func": "ent", "gdr": "m", "ind": "96,33", "title": "133,5986,103", "reg": "na.us.ma.7"}
+{"csize": "d", "cid": "226895", "func": "bd", "gdr": "m", "ind": "4", "title": "9107", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "5", "reg": "na.us.nj.70"}
+{"csize": "i", "cid": "1093", "func": "hr", "gdr": "f", "ind": "96", "title": "14198", "reg": "na.us.tx.64"}
+{"gdr": "u", "ind": "38", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "c", "cid": "626461,850378", "gdr": "m", "ind": "6,113,28", "title": "162,7,17,8", "reg": "na.us.ny.70"}
+{"csize": "h,i", "cid": "1120", "gdr": "m", "ind": "96", "reg": "na.us.ca.732"}
+{"age": "d", "csize": "b", "cid": "420873", "func": "mps,edu", "gdr": "m", "ind": "82,11,46", "title": "7344,121,6,159,8", "reg": "na.us.wa.91"}
+{"csize": "b,c", "cid": "156390", "func": "ent,pr", "gdr": "m", "ind": "36,96", "title": "5,35,8,73", "reg": "na.us.ky.452"}
+{"age": "c", "csize": "f", "cid": "1342790", "func": "prod", "gdr": "m", "ind": "69", "title": "3647", "reg": "as.in.ap.6508"}
+{"age": "c", "csize": "h", "cid": "2208", "func": "re", "gdr": "m", "ind": "44", "title": "53,130", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "6", "reg": "na.us.dc.97"}
+{"age": "b", "csize": "g", "cid": "10667", "func": "acad", "gdr": "m", "ind": "6", "title": "197", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "1934096", "func": "ent", "gdr": "m", "ind": "134,118", "title": "35,8", "reg": "na.us.fl.56"}
+{"age": "c", "csize": "e", "cid": "15020", "func": "eng", "gdr": "m", "ind": "4", "title": "39", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "m", "ind": "5", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c,d", "cid": "20197,30984", "gdr": "m", "ind": "106,6", "title": "1967", "reg": "na.us.ny.70"}
+{"csize": "b", "func": "cre,mktg,bd,pr", "gdr": "m", "ind": "35,80", "title": "7169,390,138,1035,73,3909,1575", "reg": "na.us.ca.732"}
+{"csize": "i", "cid": "1353", "func": "cnsl", "gdr": "m", "ind": "96", "title": "328", "reg": "as.in"}
+{"age": "b", "gdr": "m", "ind": "8", "title": "880", "reg": "na.ca.on.4884"}
+{"age": "c", "csize": "d", "cid": "20539", "func": "it", "gdr": "m", "ind": "115", "title": "534", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "96", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "36976", "gdr": "u", "ind": "24", "title": "8", "reg": "na.us.ca.84"}
+{"csize": "h,i", "cid": "166426", "func": "eng,it", "gdr": "m", "ind": "141", "title": "6932", "reg": "na.us.va.97"}
+{"gdr": "u", "ind": "11", "title": "16", "reg": "as.jp"}
+{"age": "c", "csize": "b,e", "cid": "14710,876256", "func": "mktg,ent", "gdr": "m", "ind": "6,88", "title": "5475,103", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "2190", "func": "mktg,cnsl", "gdr": "f", "ind": "43", "title": "279,1142,63", "reg": "na.us.ca.84"}
+{"age": "d", "func": "pr", "gdr": "m", "ind": "36,103", "title": "49,841", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h", "cid": "5393", "func": "supp,it,sale", "gdr": "u", "ind": "141", "title": "1054,3094,1247,16608,1395,3476,8705,12883,4916", "reg": "as.jp"}
+{"csize": "i,a", "cid": "1703,1700", "func": "pr", "gdr": "m", "ind": "82,6,8", "title": "1678,330", "reg": "na.us.pa.77"}
+{"csize": "g", "cid": "655894", "func": "eng,it", "gdr": "m", "ind": "43", "title": "16267,1439", "reg": "na.us.fl.896"}
+{"csize": "g,i", "cid": "166638", "func": "cnsl", "gdr": "m", "ind": "68", "title": "3", "reg": "na.us.ga.52"}
+{"gdr": "u", "ind": "6", "title": "7,16", "reg": "na.ca.on.4876"}
+{"age": "c", "csize": "i", "cid": "6184", "func": "ent,eng,ops", "gdr": "m", "ind": "65,41", "title": "32,108,195,424", "reg": "na.us.tx.42"}
+{"age": "d", "csize": "c", "cid": "482228", "func": "acad,lgl", "gdr": "m", "ind": "4", "title": "1112,197,1757", "reg": "na.us.ca.84"}
+{"age": "b", "func": "admn", "gdr": "m", "ind": "75", "title": "377", "reg": "na.ca.on.4864"}
+{"gdr": "m", "ind": "4", "reg": "na.us.wa.91"}
+{"age": "d", "func": "ent,cre,cnsl", "gdr": "m", "ind": "96", "title": "755,1,182,8502", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,c", "cid": "404641", "gdr": "m", "ind": "43,44", "title": "6,47,16", "reg": "na.us.ca.84"}
+{"csize": "g,h", "cid": "4049", "func": "cnsl", "gdr": "m", "ind": "11", "title": "22", "reg": "na.us.il.14"}
+{"csize": "g,h", "cid": "4049", "gdr": "m", "ind": "11", "title": "2", "reg": "na.us.il.14"}
+{"csize": "a", "func": "pr,it", "gdr": "u", "ind": "4", "title": "390,1399,9203", "reg": "na.us.fl.359"}
+{"gdr": "m", "ind": "6", "reg": "la.br.sp.6368"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ar.258"}
+{"csize": "c", "cid": "26506", "gdr": "f", "ind": "118", "title": "139", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "371172", "func": "css", "gdr": "m", "ind": "132,84", "title": "107,154", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "i", "cid": "1277", "func": "supp", "gdr": "m", "ind": "43", "title": "5553,6", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "u", "ind": "127", "title": "532", "reg": "eu.nl.5664"}
+{"csize": "i", "cid": "1035", "func": "qa,eng", "gdr": "f", "ind": "4", "title": "6090", "reg": "na.us.wa.91"}
+{"age": "b", "csize": "d", "cid": "29036", "func": "cnsl", "gdr": "m", "ind": "4", "title": "328", "reg": "na.us.ca.732"}
+{"gdr": "u", "ind": "6", "title": "7,16", "reg": "na.ca.on.4876"}
+{"age": "c", "csize": "i", "cid": "162479", "func": "prod", "gdr": "u", "ind": "3", "title": "270,898", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1035", "func": "bd,finc", "gdr": "m", "ind": "4", "title": "1308,906,3122", "reg": "na.us.wa.91"}
+{"gdr": "m", "ind": "5", "reg": "na.us.pa.77"}
+{"csize": "e", "cid": "163155", "func": "pr", "gdr": "m", "ind": "28", "title": "1340,73", "reg": "na.us.ny.70"}
+{"gdr": "m", "ind": "28", "reg": "na.us.ca.49"}
+{"age": "d", "csize": "i", "cid": "2516", "gdr": "m", "ind": "68", "title": "413,37", "reg": "na.us.mi.35"}
+{"csize": "e", "cid": "17209", "func": "pr", "gdr": "m", "ind": "109", "title": "838", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "f", "cid": "8291", "func": "prod", "gdr": "m", "ind": "36", "title": "6169", "reg": "na.ca.on.4884"}
+{"gdr": "f", "ind": "80", "reg": "na.us.tx.64"}
+{"csize": "c,e", "cid": "45900", "func": "it", "gdr": "u", "ind": "4", "title": "759", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "29", "reg": "na.us.il.14"}
+{"csize": "b", "cid": "131419", "func": "ent", "gdr": "f", "ind": "4", "title": "103", "reg": "na.us.ca.84"}
+{"age": "d", "csize": "b", "cid": "120380", "func": "acad,ent", "gdr": "m", "ind": "96", "title": "113,35", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "g", "cid": "163993", "func": "med", "gdr": "f", "ind": "12", "title": "1291,458,84", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "f", "cid": "12835", "func": "lgl", "gdr": "m", "ind": "9", "title": "18184", "reg": "na.us.co.34"}
+{"age": "c", "csize": "g", "cid": "1003302", "func": "eng,it", "gdr": "m", "ind": "126,11", "title": "153,6,18", "reg": "na.us.ca.84"}
+{"csize": "d", "cid": "107407", "func": "it", "gdr": "m", "ind": "136", "title": "429", "reg": "na.us.ca.49"}
+{"csize": "b", "func": "ent", "gdr": "m", "ind": "8", "title": "1", "reg": "na.us.la.556"}
+{"csize": "c", "gdr": "m", "ind": "43", "title": "16", "reg": "na.us.ma.74"}
+{"age": "c", "csize": "b,c", "cid": "99269", "func": "mktg,it,cnsl", "gdr": "f", "ind": "6", "title": "1246,2426,689,2953", "reg": "na.us.sd.776"}
+{"csize": "b", "cid": "166121", "func": "bd", "gdr": "m", "ind": "11", "title": "98", "reg": "na.us.il.14"}
+{"age": "c", "csize": "i", "cid": "2029", "func": "mktg,sale", "gdr": "m", "ind": "20", "title": "4604,2268", "reg": "na.us.or.79"}
+{"csize": "a", "func": "ent", "gdr": "f", "ind": "91", "title": "1", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "12", "title": "345", "reg": "na.us.md.7416"}
+{"gdr": "m", "ind": "103", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "1", "reg": "na.us.ca.49"}
+{"csize": "e", "cid": "361233", "func": "bd,sale", "gdr": "m", "ind": "96", "title": "2304,1088", "reg": "na.us.wa.91"}
+{"csize": "c", "cid": "2322939", "func": "ent", "gdr": "m", "ind": "27", "title": "16,103", "reg": "eu.de.5000"}
+{"age": "c", "csize": "b,d", "cid": "119992", "func": "ent,ops,edu", "gdr": "m", "ind": "113,32,100", "title": "103,75,247", "reg": "na.us.tx.31"}
+{"age": "c", "csize": "b,d", "cid": "99745,1767679", "func": "it", "gdr": "m", "ind": "27,4", "title": "203,18,65", "reg": "eu.it.5636"}
+{"csize": "i", "cid": "1009", "func": "admn", "gdr": "m", "ind": "96", "title": "38", "reg": "na.us.tx.64"}
+{"csize": "d", "cid": "57472,41782", "gdr": "m", "ind": "100,33", "title": "5497", "reg": "na.us.ca.84"}
+{"csize": "b", "func": "ent,pr", "gdr": "m", "ind": "28", "title": "1,73", "reg": "eu.es.5113"}
+{"csize": "c", "cid": "30017", "func": "prod", "gdr": "m", "ind": "4", "title": "27", "reg": "na.us.tx.64"}
+{"csize": "d", "cid": "16335", "func": "it", "gdr": "m", "ind": "4", "title": "132", "reg": "na.us.wa.91"}
+{"age": "a", "csize": "i", "cid": "2646", "func": "ent,eng", "gdr": "m", "ind": "27,4", "title": "1,10", "reg": "na.us.wa.79"}
+{"csize": "b", "func": "ent", "gdr": "m", "ind": "96,6", "title": "1,17", "reg": "na.ca.ab.4882"}
+{"csize": "f", "cid": "5597", "func": "pr", "gdr": "f", "ind": "82", "title": "5876", "reg": "na.us.ny.70"}
+{"age": "b", "csize": "i", "cid": "1062", "func": "mktg", "gdr": "f", "ind": "96", "title": "393", "reg": "na.us.ca.84"}
+{"csize": "b", "gdr": "m", "ind": "10", "title": "549,5530", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "i", "cid": "1009", "func": "ppm,acad", "gdr": "m", "ind": "96", "title": "6763,8026,2375", "reg": "na.us.nj.70"}
+{"age": "c", "csize": "i", "cid": "1040", "func": "hr", "gdr": "f", "ind": "11", "title": "1254", "reg": "na.us.ny.70"}
+{"csize": "f", "cid": "218037", "func": "it", "gdr": "m", "ind": "61", "title": "534", "reg": "na.ca.bc.4873"}
+{"csize": "b", "func": "ent", "gdr": "f", "ind": "34", "title": "1", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "39865", "func": "pr", "gdr": "f", "ind": "96", "title": "1035", "reg": "na.us.ca.84"}
+{"func": "eng", "gdr": "m", "ind": "6", "title": "9", "reg": "na.us.wa.91"}
+{"age": "d", "csize": "b,e", "cid": "461715,126678", "func": "edu", "gdr": "m", "ind": "11", "title": "355,776,6,460", "reg": "na.us.ca.84"}
+{"csize": "e", "cid": "163338", "func": "admn", "gdr": "f", "ind": "4", "title": "1502", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "1082309", "func": "pr,prod,cnsl", "gdr": "m", "ind": "84", "title": "6882,82,27", "reg": "na.us.nj.70"}
+{"csize": "d", "cid": "69942", "func": "mktg,sale", "gdr": "m", "ind": "42", "title": "259", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,a", "func": "cre,it,eng", "gdr": "m", "ind": "111,4", "title": "153,138", "reg": "na.us.or.79"}
+{"csize": "c", "cid": "120748", "func": "prod", "gdr": "m", "ind": "4", "title": "671", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "1051945", "func": "eng,it", "gdr": "m", "ind": "82,6", "title": "153", "reg": "na.us.fl.56"}
+{"age": "c", "csize": "d,c", "gdr": "m", "ind": "6", "title": "8,154", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6", "title": "326", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "162479", "func": "eng", "gdr": "f", "ind": "3", "title": "39", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "87649", "func": "bd", "gdr": "m", "ind": "4", "title": "261", "reg": "na.us.ma.16"}
+{"csize": "c", "cid": "84819", "func": "it", "gdr": "m", "ind": "50", "title": "10262,1875", "reg": "na.us.ca.82"}
+{"age": "c", "csize": "b,c", "cid": "1373625", "gdr": "m", "ind": "106", "title": "154", "reg": "na.us.ca.84"}
+{"csize": "b", "func": "cnsl", "gdr": "m", "ind": "6", "title": "6,22", "reg": "na.ca.on.4876"}
+{"age": "b", "csize": "c", "cid": "35439", "func": "ent", "gdr": "m", "ind": "6,107", "title": "35,8,60", "reg": "na.us.tx.64"}
+{"csize": "b", "gdr": "m", "ind": "46", "title": "154", "reg": "na.us.nc.664"}
+{"func": "ent,pr", "gdr": "m", "ind": "82", "title": "471,35", "reg": "na.us.mn.512"}
+{"age": "c", "csize": "b,d", "cid": "166530,120092", "func": "mktg,ent,pr", "gdr": "m", "ind": "6,105", "title": "49,3949,5158,35,999", "reg": "na.ca.on.4876"}
+{"csize": "c", "cid": "70122", "func": "prod", "gdr": "m", "ind": "3", "title": "1838", "reg": "na.us.or.79"}
+{"csize": "b,c", "cid": "216328,23899", "func": "bd,pr", "gdr": "m", "ind": "113,80", "title": "316,16,2746,2796", "reg": "na.us.mn.512"}
+{"age": "b", "gdr": "m", "ind": "6", "reg": "na.us.ca.84"}
+{"func": "ent", "gdr": "u", "ind": "6", "title": "1", "reg": "na.us.mo.376"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "4", "title": "8,103", "reg": "na.us.nc.48"}
+{"csize": "c", "cid": "78066", "gdr": "m", "ind": "6", "title": "8", "reg": "na.us.ca.84"}
+{"csize": "h", "cid": "4049", "gdr": "m", "ind": "11", "title": "2", "reg": "na.us.mi.35"}
+{"gdr": "m", "ind": "6", "reg": "na.us.in.348"}
+{"age": "c", "csize": "c", "cid": "219286", "gdr": "m", "ind": "44", "title": "139,18", "reg": "na.us.ny.70"}
+{"csize": "c", "cid": "201534", "func": "cnsl", "gdr": "m", "ind": "6,11", "title": "3,182", "reg": "na.us.wa.91"}
+{"csize": "i", "cid": "1063", "func": "hr", "gdr": "f", "ind": "5", "title": "44,845", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "167907", "gdr": "m", "ind": "30,109", "title": "19923,2613", "reg": "na.us.ca.84"}
+{"csize": "g,e", "cid": "30450", "func": "finc", "gdr": "m", "ind": "43", "title": "258", "reg": "na.us.md.7416"}
+{"func": "ent", "gdr": "f", "ind": "9", "title": "1", "reg": "na.us.pa.77"}
+{"age": "c", "csize": "i", "cid": "162479", "func": "pr,eng", "gdr": "m", "ind": "3", "title": "669,174", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "134925", "func": "it", "gdr": "m", "ind": "106", "title": "21,65", "reg": "na.us.tx.64"}
+{"age": "c", "csize": "b", "cid": "2034587", "func": "ent,it,eng", "gdr": "m", "ind": "6", "title": "153,103", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ga.52"}
+{"func": "prod", "gdr": "m", "ind": "4", "title": "6169", "reg": "na.us.or.79"}
+{"csize": "d", "cid": "786158", "func": "supp,mktg,pr,sale", "gdr": "f", "ind": "96", "title": "4040,2050,3745,5,2527,3440", "reg": "na.us.ny.70"}
+{"age": "c", "gdr": "f", "ind": "6", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "b", "cid": "787167", "func": "ent", "gdr": "m", "ind": "6", "title": "35,8", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "g", "cid": "10590", "func": "it", "gdr": "f", "ind": "48", "title": "20677", "reg": "na.us.ri.648"}
+{"func": "ent", "gdr": "f", "ind": "4", "title": "1,24", "reg": "na.us.ny.70"}
+{"age": "c", "csize": "c", "cid": "894496", "gdr": "f", "ind": "96", "title": "10430", "reg": "na.us.tx.64"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "28", "title": "1", "reg": "as.sg"}
+{"age": "c", "gdr": "f", "ind": "11", "title": "154", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "d,b,c,i,a", "cid": "3214,4520,1198253", "func": "it,ent,mktg,pr,ops,cnsl", "gdr": "m", "ind": "82,126,80,25,103,28", "title": "1,9514,390,18609,701,73,17172,10451,999", "reg": "na.us.wi.63"}
+{"age": "a", "func": "cnsl", "gdr": "m", "ind": "6", "title": "3", "reg": "eu.gb.4550"}
+{"age": "c", "csize": "i", "cid": "1178", "func": "finc", "gdr": "m", "ind": "43", "title": "7,2029", "reg": "na.us.ma.7"}
+{"gdr": "m", "ind": "6", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "162700", "func": "acad,it", "gdr": "m", "ind": "43", "title": "21,12", "reg": "eu.gb.4561"}
+{"age": "c", "csize": "b", "gdr": "u", "ind": "11", "title": "154", "reg": "as.jp.7672"}
+{"age": "d", "func": "mktg,cnsl", "gdr": "m", "ind": "80", "title": "279", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "func": "pr", "gdr": "m", "ind": "98,4", "title": "10536,18", "reg": "na.ca.bc.4880"}
+{"age": "d", "csize": "g", "cid": "165837", "func": "edu", "gdr": "m", "ind": "6,68", "title": "3356,8", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g,d,b,c,a,i", "cid": "2517,3084,1022787,200140,1337,109902,23562", "func": "bd", "gdr": "f", "ind": "96,68,6,100,11,4", "title": "899,133,1967,10517,15718,16", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "933056", "func": "ent,prod", "gdr": "m", "ind": "113", "title": "103,731", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "c", "cid": "167151", "func": "it", "gdr": "m", "ind": "6", "title": "534", "reg": "na.us.nj.70"}
+{"age": "c", "csize": "b,c,e", "cid": "86649,9450", "func": "acad", "gdr": "m", "ind": "6,100,37", "title": "331,8", "reg": "na.us.ma.7"}
+{"csize": "f", "cid": "14703", "func": "acad,css", "gdr": "m", "ind": "9", "title": "8630,8547,604", "reg": "na.us.tx.31"}
+{"age": "c", "csize": "g,c,i", "cid": "71057,4734", "func": "cnsl,it", "gdr": "m", "ind": "96,68", "title": "125,7182", "reg": "na.us.az.852"}
+{"age": "c", "gdr": "m", "ind": "6", "title": "5", "reg": "oc.nz"}
+{"csize": "g", "cid": "6439", "func": "cnsl", "gdr": "m", "ind": "96", "title": "22", "reg": "na.us.ny.70"}
+{"age": "c", "gdr": "f", "ind": "37", "reg": "na.us.ca.49"}
+{"age": "b", "csize": "b", "cid": "2267380", "func": "hr", "gdr": "f", "ind": "4", "title": "1135,1254", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "74", "reg": "na.us.nc.664"}
+{"csize": "b", "func": "cre", "gdr": "m", "ind": "35", "title": "117,6", "reg": "na.us.ca.49"}
+{"csize": "c", "cid": "28902", "gdr": "m", "ind": "106", "title": "47", "reg": "na.us.ma.7"}
+{"gdr": "m", "ind": "9", "reg": "na.us.nj.70"}
+{"age": "c", "csize": "i", "cid": "1015", "func": "bd,finc", "gdr": "m", "ind": "112", "title": "12560,2960,3066", "reg": "na.us.ct.70"}
+{"csize": "d,i", "cid": "1028,13288", "func": "prod", "gdr": "m", "ind": "96,4", "title": "2005,671", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,f,c", "cid": "7299,1947932,376203", "func": "acad,pr,bd", "gdr": "m", "ind": "96,6,113,11,4", "title": "4081,471,5,918,229,1279", "reg": "na.us.ca.84"}
+{"gdr": "f", "ind": "9", "reg": "na.us.ca.84"}
+{"gdr": "m", "ind": "47", "title": "5", "reg": "na.us.ca.84"}
+{"csize": "c,a", "cid": "101421", "func": "pr", "gdr": "m", "ind": "24,103", "title": "330,15162", "reg": "na.ca.nb.4868"}
+{"csize": "b", "cid": "266412", "gdr": "m", "ind": "80", "title": "60", "reg": "na.us.ca.49"}
+{"csize": "h", "cid": "2861", "func": "cre", "gdr": "f", "ind": "12", "title": "12312,10331", "reg": "na.us.ca.84"}
+{"func": "cre", "gdr": "m", "ind": "4", "title": "3114", "reg": "na.us.ca.84"}
+{"csize": "c", "cid": "40552", "func": "supp,eng", "gdr": "m", "ind": "4", "title": "369", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1303", "func": "pr,cnsl", "gdr": "m", "ind": "28", "title": "8043,1017,2250,101", "reg": "na.us.ca.49"}
+{"csize": "c", "cid": "39744", "func": "prod", "gdr": "m", "ind": "6", "title": "1474", "reg": "na.us.ny.70"}
+{"csize": "d", "cid": "11190", "func": "ops", "gdr": "m", "ind": "106", "title": "145", "reg": "na.us.ca.84"}
+{"age": "b", "csize": "f,g", "cid": "6029", "gdr": "m", "ind": "68", "title": "4862,345", "reg": "na.us.dc.97"}
+{"csize": "f", "cid": "6438", "func": "cre", "gdr": "f", "ind": "80", "title": "90", "reg": "na.us.nj.70"}
+{"age": "c", "csize": "b", "cid": "374574", "gdr": "m", "ind": "128", "title": "6,8", "reg": "la.vi"}
+{"gdr": "m", "ind": "4", "reg": "na.us.ct.327"}
+{"age": "c", "csize": "a", "cid": "1570252", "gdr": "m", "ind": "96", "title": "6", "reg": "na.us.mi.35"}
+{"age": "c", "csize": "c", "cid": "1060801", "gdr": "m", "ind": "4", "title": "121,47,18", "reg": "na.us.ma.7"}
+{"csize": "a", "func": "ent", "gdr": "f", "ind": "38", "title": "1", "reg": "na.us.ca.84"}
+{"age": "c", "gdr": "f", "ind": "14", "reg": "na.us.wa.91"}
+{"gdr": "m", "ind": "6", "reg": "na.us.or.240"}
+{"csize": "b", "cid": "109454", "func": "it", "gdr": "m", "ind": "33", "title": "382", "reg": "na.us.pa.24"}
+{"age": "c", "csize": "h", "cid": "2988", "func": "acad,eng", "gdr": "m", "ind": "4", "title": "663", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b", "cid": "63611", "gdr": "m", "ind": "106", "title": "17639", "reg": "na.us.ma.7"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "prod", "gdr": "m", "ind": "6", "title": "27", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g,d,b,c", "cid": "1668979,843529,660862,1793", "func": "edu,lgl", "gdr": "m", "ind": "79,6,68", "title": "7,7995,17430,1265", "reg": "na.us.ny.70"}
+{"age": "c", "gdr": "f", "ind": "6", "reg": "na.us.tx.31"}
+{"gdr": "m", "ind": "6", "title": "6", "reg": "na.ca.on.4884"}
+{"age": "c", "csize": "i,a", "cid": "2624", "func": "edu,cnsl", "gdr": "f", "ind": "99,132,68", "title": "3458,345,75,2190", "reg": "na.us.ny.70"}
+{"gdr": "m", "ind": "5", "reg": "na.us.in.244"}
+{"csize": "d", "cid": "47855", "func": "finc", "gdr": "f", "ind": "4", "title": "127", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "g", "cid": "5833", "gdr": "m", "ind": "9", "title": "6698", "reg": "as.jp.7688"}
+{"age": "c", "csize": "b,a", "cid": "122402,1913675", "func": "mktg,ppm,pr", "gdr": "u", "ind": "100", "title": "106,7057", "reg": "eu.it.5593"}
+{"age": "b", "csize": "c,d,i", "cid": "1288,15086,120199", "func": "acad,pr,cnsl", "gdr": "f", "ind": "6,118,80", "title": "958,6693,148,82,2430", "reg": "na.us.az.620"}
+{"gdr": "m", "ind": "84", "reg": "na.us.md.7416"}
+{"age": "c", "csize": "i", "cid": "1284", "gdr": "m", "ind": "41", "title": "7", "reg": "na.us.ca.84"}
+{"func": "ent", "gdr": "m", "ind": "38", "title": "1", "reg": "na.us.ca.82"}
+{"age": "c", "gdr": "m", "ind": "91", "reg": "na.us.il.14"}
+{"age": "c", "csize": "b,d,i", "cid": "13322,2185", "func": "ent,pr,it", "gdr": "m", "ind": "96,6,75,46", "title": "445,2,1055,35,2637,1279", "reg": "na.us.fl.751"}
+{"csize": "b,c", "cid": "1084193,563805", "func": "ent", "gdr": "m", "ind": "76,91", "title": "35,103,8", "reg": "na.us.ca.84"}
+{"csize": "g", "cid": "492307", "func": "finc", "gdr": "f", "ind": "41", "title": "1456,3769", "reg": "na.us.ca.84"}
+{"csize": "g", "cid": "17943", "func": "it", "gdr": "m", "ind": "68", "title": "150", "reg": "na.us.ia.892"}
+{"func": "it", "gdr": "m", "ind": "6", "title": "190", "reg": "na.us.al.344"}
+{"age": "d", "csize": "b,d", "cid": "41544", "func": "ent", "gdr": "m", "ind": "41", "title": "1", "reg": "eu.gb.4644"}
+{"gdr": "m", "ind": "6", "reg": "na.us.az.620"}
+{"age": "c", "csize": "i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6", "title": "9", "reg": "na.us.ca.84"}
+{"csize": "c,a", "cid": "347190,223887", "func": "supp,sale,prod", "gdr": "m", "ind": "6,36,100", "title": "1474,133,9517,1563", "reg": "na.ca.ab.4882"}
+{"age": "c", "csize": "h", "cid": "1503", "func": "css,it", "gdr": "m", "ind": "68", "title": "3735,9815", "reg": "na.us.ma.7"}
+{"csize": "g,i", "cid": "5366", "func": "it", "gdr": "m", "ind": "70", "title": "2198", "reg": "eu.se"}
+{"gdr": "m", "ind": "6", "reg": "na.us.dc.97"}
+{"age": "c", "csize": "b", "cid": "237623", "func": "supp", "gdr": "m", "ind": "4", "title": "5431", "reg": "na.ca.bc.4880"}
+{"age": "c", "func": "ent,cnsl", "gdr": "f", "ind": "110,11", "title": "3,35", "reg": "na.us.ca.84"}
+{"cid": "1844444", "func": "ent", "gdr": "m", "ind": "6", "title": "35", "reg": "na.us.mt.304"}
+{"age": "c", "csize": "d", "cid": "362798", "func": "eng", "gdr": "f", "ind": "6", "title": "15219", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "h", "cid": "2336", "func": "it,ops,prod", "gdr": "m", "ind": "118", "title": "3435,1448,1869,671", "reg": "na.us.or.79"}
+{"age": "c", "gdr": "f", "ind": "6", "reg": "na.us.nc.664"}
+{"func": "ent", "gdr": "m", "ind": "6", "title": "1,8", "reg": "eu.gb.4638"}
+{"age": "c", "csize": "g,d", "cid": "4863,8459", "func": "pr,sale", "gdr": "u", "ind": "82,8", "title": "824,101", "reg": "na.us.ga.52"}
+{"func": "ent", "gdr": "m", "ind": "5", "title": "1", "reg": "na.us.az.620"}
+{"age": "c", "csize": "e", "cid": "19407", "func": "acad", "gdr": "m", "ind": "68", "title": "74", "reg": "na.us.ca.49"}
+{"csize": "d", "cid": "104090", "func": "acad,ent", "gdr": "f", "ind": "96,124", "title": "6,16338,35", "reg": "na.us.va.97"}
+{"func": "ent", "gdr": "m", "ind": "5", "title": "1", "reg": "na.us.mn.512"}
+{"age": "c", "csize": "b,i", "cid": "2422729,21742", "func": "it", "gdr": "m", "ind": "75,78", "title": "717,162", "reg": "eu.gb.4630"}
+{"age": "c", "csize": "i", "cid": "2217", "func": "ent,it,ops", "gdr": "m", "ind": "57,84", "title": "6440,534,35", "reg": "na.us.tx.42"}
+{"age": "c", "csize": "f,i", "cid": "166406", "func": "hr", "gdr": "m", "ind": "100", "title": "5,1179", "reg": "na.ca.ab.4872"}
+{"csize": "c", "cid": "47466", "func": "cnsl", "gdr": "m", "ind": "42", "title": "328", "reg": "na.us.ca.84"}
+{"csize": "i", "cid": "2538", "func": "supp", "gdr": "m", "ind": "36", "title": "403", "reg": "na.us.fl.596"}
+{"age": "c", "csize": "g", "cid": "2046", "func": "mktg,ops", "gdr": "m", "ind": "36", "title": "18639,21886,7233,5940", "reg": "na.us.ny.70"}
+{"csize": "d", "cid": "39488", "func": "edu", "gdr": "f", "ind": "85", "title": "3825", "reg": "na.us.ga.52"}
+{"age": "c", "csize": "f", "cid": "9624", "func": "cnsl,prod", "gdr": "m", "ind": "6,4", "title": "182,270", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "c", "cid": "223255", "func": "acad,mktg,pr", "gdr": "f", "ind": "6", "title": "3745,2465,13804", "reg": "na.us.ny.70"}
+{"csize": "i", "cid": "1237", "func": "sale", "gdr": "m", "ind": "41", "title": "225", "reg": "na.us.ca.84"}
+{"func": "mktg,sale", "gdr": "m", "ind": "82", "title": "184", "reg": "eu.de.5000"}
+{"csize": "h", "cid": "5167", "func": "cre", "gdr": "m", "ind": "81", "title": "58", "reg": "na.us.ca.49"}
+{"age": "c", "csize": "d", "cid": "1943549", "func": "eng", "gdr": "m", "ind": "43", "title": "9", "reg": "na.us.nj.70"}
+{"age": "c", "csize": "b", "gdr": "m", "ind": "4", "title": "6", "reg": "na.us.ca.748"}
+{"age": "b", "csize": "d", "func": "ent,pr", "gdr": "f", "ind": "4,82,102", "title": "49,1,6,1279,11527", "reg": "na.ca.on.4876"}
+{"func": "cre", "gdr": "m", "ind": "80", "title": "117", "reg": "na.us.il.14"}
+{"age": "d", "csize": "b,a", "cid": "1117087", "func": "cnsl", "gdr": "u", "ind": "11,141", "title": "3,60", "reg": "oc.au.4901"}
+{"csize": "c", "cid": "16481", "func": "ent", "gdr": "m", "ind": "6", "title": "35,8", "reg": "me.pk"}
+{"age": "c", "csize": "b,e,i", "cid": "19682,1070", "func": "ent,it", "gdr": "m", "ind": "96,8,6,37", "title": "1437,1,59,100", "reg": "na.us.il.14"}
+{"gdr": "m", "ind": "5", "reg": "na.us.ga.52"}
+{"age": "c", "csize": "d", "cid": "108422", "func": "qa,it", "gdr": "m", "ind": "4", "title": "59,3875", "reg": "na.us.tx.64"}
+{"age": "c", "gdr": "m", "ind": "4", "reg": "na.us.va.97"}
+{"age": "b", "csize": "c", "cid": "588282", "func": "eng", "gdr": "m", "ind": "5", "title": "9", "reg": "na.us.md.97"}
+{"age": "b", "csize": "g", "func": "it", "gdr": "m", "ind": "96,78", "title": "1878,370", "reg": "na.us.ca.82"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "96,30,37,11", "title": "35,1380", "reg": "na.us.ma.7"}
+{"gdr": "m", "ind": "70", "title": "6", "reg": "na.us.hi.332"}
+{"age": "c", "csize": "b,d", "cid": "17769", "gdr": "m", "ind": "3", "reg": "na.us.il.14"}
+{"age": "c", "csize": "d", "gdr": "m", "ind": "124", "title": "8", "reg": "na.us.co.298"}
+{"age": "c", "csize": "b", "cid": "1853408", "func": "ppm,ent", "gdr": "m", "ind": "37,84", "title": "1,4061,10955", "reg": "as.jp.7687"}
+{"cid": "1367241", "gdr": "m", "ind": "6", "title": "17", "reg": "na.us.ca.84"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "4", "title": "35", "reg": "na.us.ca.84"}
+{"csize": "a", "func": "cre", "gdr": "m", "ind": "80", "title": "2803", "reg": "na.us.ca.49"}
+{"csize": "i", "cid": "1441", "func": "eng", "gdr": "m", "ind": "6", "title": "326", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "b,d", "cid": "362798,315113", "func": "ent,it,eng", "gdr": "m", "ind": "6,113", "title": "153,35,9", "reg": "na.us.wa.91"}
+{"age": "c", "csize": "d", "cid": "13858", "func": "mktg,sale", "gdr": "m", "ind": "4", "title": "2236", "reg": "na.us.wa.91"}
+{"age": "c", "func": "ent", "gdr": "m", "ind": "24", "title": "35,8", "reg": "na.us.ca.84"}
+{"age": "c", "csize": "i", "cid": "1292", "func": "mktg,pr", "gdr": "m", "ind": "28", "title": "775,2865,17,8971", "reg": "as.jp.7672"}
+{"age": "a", "gdr": "m", "ind": "4", "reg": "eu.gb.4573"}
+{"age": "c", "csize": "h", "cid": "9240", "func": "cnsl,it", "gdr": "m", "ind": "6,24", "title": "47,82,2868,6251", "reg": "na.us.ks.376"}
+{"csize": "d", "cid": "87170", "gdr": "m", "ind": "4", "title": "238", "reg": "na.us.nc.664"}
+{"age": "c", "csize": "i", "cid": "3240", "func": "supp,finc", "gdr": "m", "ind": "42", "title": "830,6633,12896,896", "reg": "na.us.ca.82"}
+{"age": "c", "csize": "b,d,a", "cid": "53786,400488", "gdr": "m", "ind": "11,69,4", "title": "2747,6,8,16", "reg": "na.us.or.79"}

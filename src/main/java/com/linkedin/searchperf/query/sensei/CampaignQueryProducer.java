@@ -22,7 +22,7 @@ public class CampaignQueryProducer extends SenseiQueryProducer {
   public synchronized SenseiClientRequest createQuery(boolean includeFacets, int simpleSelections, int rangeSelections,
       int pathSelections) {
     if (jsonRequests.size() == 0) {
-      throw new IllegalStateException("There are not requests");
+      throw new IllegalStateException("There are no requests");
     }
     if (i >= jsonRequests.size()) {
       i = 0;
@@ -35,6 +35,7 @@ public class CampaignQueryProducer extends SenseiQueryProducer {
     try {
       JSONObject json = new JSONObject(string);
       Builder builder = SenseiClientRequest.builder();
+      builder.paging(100, 0);
       for (String key : JSONObject.getNames(json)) {
         if (key.equals("id")) {
           continue;
@@ -47,11 +48,20 @@ public class CampaignQueryProducer extends SenseiQueryProducer {
           }
         } else {
           String geo = json.getString("reg");
-          if (geo.contains(",")) {
-            geo = geo.split(",")[0].trim();
-          }
-          builder.addSelection(Selection.terms("reg", "[" + geo + " TO " + geo + "~]"));
-        }
+          List<String> partialGeos = new ArrayList<String>();
+          int index = -1;
+          do  {
+            index = geo.indexOf(".", index + 1);
+            if (index > 0) {
+              partialGeos.add(geo.substring(0, index));
+            } else {
+              partialGeos.add(geo);
+              partialGeos.add("null");
+            }
+            
+          } while (index >= 0);
+         // builder.addSelection(Selection.terms("reg", partialGeos.toArray(new String[partialGeos.size()])));
+        } 
       }
       return builder.build();
     } catch (JSONException ex) {
