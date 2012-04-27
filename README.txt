@@ -16,7 +16,7 @@ Elastic search doesn't require any setup steps
 It does make sense to do the performance testing when the documents are kept adding to the db
 
 For the Sensei 
-1.Launch the bin/prepare.sh to create the json file with 3 mln docs. Modify  
+1.Launch the bin/prepare.sh to create the json file with 3 mln docs. 
 2. just use com.senseidb.gateway.file.LinedFileDataProvider in the sensei.properties to load docs from the generated big file
 
 For Solr execute  bin/loadIndex script. Please uncomment the section specific to Solr
