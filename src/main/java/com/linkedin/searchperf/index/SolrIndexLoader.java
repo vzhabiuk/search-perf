@@ -37,7 +37,9 @@ public class SolrIndexLoader extends AbstractConcurrentRunner<List<JSONObject>> 
       stop();
       }
     }
-    if (sentCount.get() % 2000 == 0  && sentCount.get() > 0) {System.out.println("Sent " + sentCount.get() + " documents");}
+    if (sentCount.get() % 2000 == 0  && sentCount.get() > 0) {
+      System.out.println("Sent " + sentCount.get() + " documents" + "; read " + readCount.get() + " docs");
+      }
     if (request.size() > 0){
      
       httpClient.postJson(url, new JSONArray(request).toString());;
@@ -56,7 +58,7 @@ public class SolrIndexLoader extends AbstractConcurrentRunner<List<JSONObject>> 
       empty = true;
       return Collections.EMPTY_LIST;
     }
-    while (i < 1000){
+    while (i < 500){
       if (!lineIterator.hasNext()) {       
         empty = true;
         break;

@@ -19,8 +19,12 @@ public class HttpClient {
   protected static Log LOG = LogFactory.getLog(HttpClient.class);
 
   public String postJson(String url, String jsonData) {
-    
-    return sendPostRaw(url, jsonData);
+    try {
+      return sendPostRaw(url, jsonData);
+    } catch (Exception ex) {
+      System.out.println(ex.getMessage());
+      return null;
+    }
   }
 
   byte[] drain(InputStream inputStream) throws IOException {

@@ -71,7 +71,7 @@ public abstract class AbstractConcurrentRunner <T> implements ConcurrentRunner {
         //LOG.error("QueueSize = " + queue.size());
         try {
 
-          queue.offer(createRequestBatch(100), 500, TimeUnit.MILLISECONDS);
+          queue.offer(createRequestBatch(100), 40, TimeUnit.SECONDS);
         } catch (InterruptedException e) {
           throw new RuntimeException(e);
         }
@@ -111,10 +111,11 @@ public abstract class AbstractConcurrentRunner <T> implements ConcurrentRunner {
             for (T request : requests) {
               if (stop.get()) {
                 break;
-              }              
+              }      
                 TimerContext time = responseTimeMetric.time();
                 sendRequest(request, QUERY_LOG);
-                time.stop();             
+                time.stop();
+                  
             }
 
           }

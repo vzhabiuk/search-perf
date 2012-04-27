@@ -12,5 +12,5 @@ else
   echo "$numdocs docs"
 fi
 
-python $bin/expandData.py $bin/../data/cars.json $bin/../data/test.json $numdocs
+python $bin/expandData.py $bin/../data/cars.json $bin/../data/cars3m.json $numdocs
 

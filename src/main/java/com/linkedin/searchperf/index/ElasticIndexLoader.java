@@ -22,7 +22,9 @@ public class ElasticIndexLoader extends SolrIndexLoader {
       stop();
       }
     }
-    if (sentCount.get() % 500 == 0 && sentCount.get() > 0) {System.out.println("Sent " + sentCount.get() + " documents");}
+    if (sentCount.get() % 500 == 0 && sentCount.get() > 0) {
+      System.out.println("Sent " + sentCount.get() + " documents" + "; read " + readCount.get() + " docs");
+    }
     if (request.size() > 0){
       for (int i = 0; i < request.size(); i++) {
         httpClient.postJson(url, request.get(i).toString());

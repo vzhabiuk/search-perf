@@ -1,5 +1,5 @@
-import json
 import sys
+
 if len(sys.argv) < 3:
 	print("usage: input output max")
 else:
@@ -10,11 +10,8 @@ else:
 	outfile = open(outName,'w+')
 	lines = open(inName,'r').readlines();
 	while counter < max:
-		idx = counter% len(lines)
-		obj = json.loads(lines[idx])
-		obj['id'] = counter
-		modifiedLine = json.dumps(obj)
-		outfile.write(modifiedLine+"\n")
+		idx = counter% len(lines)		
+		outfile.write(lines[idx].replace("\"id\":" + str(idx) , "\"id\":" + str(counter)))
 		counter = counter+1
 
 
