@@ -9,7 +9,7 @@ Clean all the indexes, copy configs/sensei/schema.xml into the Sensei config fol
 
 The following setup steps are required to prepare the Solr for testing:
 Clean all the indexes in the data folder, copy configs/solr/schema.xml into the Solr conf folder
-
+Configure Solr to use json updates http://wiki.apache.org/solr/UpdateJSON
 Elastic search doesn't require any setup steps
 
 2. Loading docs into the DB:
