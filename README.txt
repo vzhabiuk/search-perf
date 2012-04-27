@@ -17,10 +17,9 @@ Elastic search doesn't require any setup steps
 It does make sense to do the performance testing when the documents are kept adding to the db
 
 For the Sensei 
-
  Just use com.senseidb.gateway.file.LinedFileDataProvider in the sensei.properties to load docs from the generated big file data/cars3m.json
 Add the following line to sensei.properties
-sensei.index.manager.default.eventsPerMin = 100000000
+Add sensei.index.manager.default.eventsPerMin = 600000
 
 For Solr execute  bin/loadIndex script. Please uncomment the section specific to Solr
 For Elastic Search execute  bin/loadIndex script. Please uncomment the section specific to Elastic Search
