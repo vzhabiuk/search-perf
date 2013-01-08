@@ -22,6 +22,7 @@ Add the following line to sensei.properties
 Add sensei.index.manager.default.eventsPerMin = 600000
 
 For Solr execute  bin/loadIndex script. Please uncomment the section specific to Solr
+
 For Elastic Search execute  bin/loadIndex script. Please uncomment the section specific to Elastic Search
 
 The script launches the java program with the following command line params:
