@@ -7,12 +7,12 @@ import org.apache.commons.logging.Log;
 import com.linkedin.searchperf.query.sensei.SenseiQueryProducer;
 import com.linkedin.searchperf.runner.AbstractConcurrentRunner;
 import com.linkedin.searchperf.runner.PerfRunnerConfig;
+import com.senseidb.search.client.SenseiServiceProxy;
 import com.senseidb.search.client.json.JsonSerializer;
-import com.senseidb.search.client.json.SenseiServiceProxy;
-import com.senseidb.search.client.json.req.Selection;
-import com.senseidb.search.client.json.req.SenseiClientRequest;
-import com.senseidb.search.client.json.req.filter.Filter;
-import com.senseidb.search.client.json.req.filter.Filters;
+import com.senseidb.search.client.req.Selection;
+import com.senseidb.search.client.req.SenseiClientRequest;
+import com.senseidb.search.client.req.filter.Filter;
+import com.senseidb.search.client.req.filter.Filters;
 
 public class SenseiConcurrentRunner extends AbstractConcurrentRunner<String> {
   private SenseiServiceProxy senseiServiceProxy;
@@ -58,6 +58,7 @@ public class SenseiConcurrentRunner extends AbstractConcurrentRunner<String> {
     if (QueryLog.isErrorEnabled()) {
       int numHitsIndex = senseiResult.indexOf("\"numhits\"");
       numHitsIndex = senseiResult.indexOf(":", numHitsIndex);
+      //System.out.println(senseiResult);
       String numHits = senseiResult.substring(numHitsIndex + 1, senseiResult.indexOf(",", numHitsIndex));
       QueryLog.warn("time=[" + (System.currentTimeMillis() - now) + "], 1hits=[" + numHits + "], query=" + request+ "]");
     }

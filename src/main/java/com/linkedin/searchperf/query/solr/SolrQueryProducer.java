@@ -4,11 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 import com.linkedin.searchperf.query.sensei.SenseiQueryProducer;
-import com.senseidb.search.client.json.req.Path;
-import com.senseidb.search.client.json.req.Range;
-import com.senseidb.search.client.json.req.Selection;
-import com.senseidb.search.client.json.req.SenseiClientRequest;
-import com.senseidb.search.client.json.req.Terms;
+import com.senseidb.search.client.req.Path;
+import com.senseidb.search.client.req.Range;
+import com.senseidb.search.client.req.Selection;
+import com.senseidb.search.client.req.SenseiClientRequest;
+import com.senseidb.search.client.req.Terms;
 
 public class SolrQueryProducer {
   private SenseiQueryProducer senseiQueryProducer;

@@ -10,11 +10,11 @@ import java.util.Set;
 import org.apache.commons.io.IOUtils;
 
 import com.linkedin.searchperf.runner.PerfRunnerConfig;
-import com.senseidb.search.client.json.req.Facet;
-import com.senseidb.search.client.json.req.Selection;
-import com.senseidb.search.client.json.req.SenseiClientRequest;
-import com.senseidb.search.client.json.req.SenseiClientRequest.Builder;
-import com.senseidb.search.client.json.req.Terms;
+import com.senseidb.search.client.req.Facet;
+import com.senseidb.search.client.req.Facet.Builder;
+import com.senseidb.search.client.req.Selection;
+import com.senseidb.search.client.req.SenseiClientRequest;
+import com.senseidb.search.client.req.Terms;
 
 public class SenseiQueryProducer {
   private DataCollector collector;
@@ -49,7 +49,7 @@ public class SenseiQueryProducer {
     List<Selection> simpleSelectionsList = new ArrayList<Selection>();
     List<Selection> rangeSelectionsList = new ArrayList<Selection>();
     List<Selection> pathSelectionsList = new ArrayList<Selection>();
-    Builder builder = SenseiClientRequest.builder();
+    com.senseidb.search.client.req.SenseiClientRequest.Builder builder = SenseiClientRequest.builder();
     Facet builtFacet = Facet.builder().expand(true).max(100000).minHit(0).orderByHits().build();
     for (FacetType facetType : queryMetadata.getFacetsPerType().keySet()) {
       for (String facetName : queryMetadata.getFacetsPerType().get(facetType)) {
