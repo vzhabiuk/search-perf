@@ -1,7 +1,8 @@
 Searcher performance comparison suite between Solr, ElasticSearch and Sensei
 
 1. Setup
-At first launch the bin.prepare.sh script to generate the data/cars3m.json file that would contain 3 mln docs
+At first execute mvn install -DskipTests=true
+Secondly launch the bin.prepare.sh script to generate the data/cars3m.json file that would contain 3 mln docs
 
 By default the search-perf will load and query the data based on the data/cars.json, data/cars3m.json datasets
 
